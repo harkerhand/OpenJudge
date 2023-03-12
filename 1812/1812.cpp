@@ -21,7 +21,7 @@ void mySort(int *a){//冒泡排序
     }
 }
 
-bool compare(int *a, int b[100000][3], int mm){//传入
+bool compare(int *a, int b[100000][3], int mm){//传入被比较值和数据库,mm作计数器减少性能开支
     for(int i = 0; i < mm; i++){
         if(a[0] == b[i][0] && a[1] == b[i][1] && a[2] == b[i][2]){
             return true;
