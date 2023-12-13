@@ -10,11 +10,9 @@ int main()
     Matrix matrixA(a);
     Matrix matrixB(b);
     Matrix matrixC = matrixA + matrixB;
-    cout << matrixC.son(2, 2);
-    cout << matrixC.son(2, 2).determinant() << endl;
-    vector<vector<double>> c = {{1, 2}, {3, 4}};
-    Matrix matrixD(c);
-    cout << matrixD.adjoint() << endl;
+    cout << matrixC;
+    cout << matrixC.determinant() << endl;
+    cout << matrixC.adjoint();
 
     return 0;
 }
