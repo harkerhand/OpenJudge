@@ -86,19 +86,6 @@ public:
         }
     }
 
-    Matrix transpose()
-    {
-        Matrix temp(this->line, this->row);
-        for (int i = 0; i < line; i++)
-        {
-            for (int j = 0; j < row; j++)
-            {
-                temp.matrix[i][j] = this->matrix[j][i];
-            }
-        }
-        return temp;
-    }
-
     friend ostream &operator<<(ostream &output, const Matrix &temp)
     {
         for (int i = 0; i < temp.row; i++)
@@ -110,6 +97,20 @@ public:
             output << endl;
         }
         return output;
+    }
+
+    // 转置
+    Matrix transpose()
+    {
+        Matrix temp(this->line, this->row);
+        for (int i = 0; i < line; i++)
+        {
+            for (int j = 0; j < row; j++)
+            {
+                temp.matrix[i][j] = this->matrix[j][i];
+            }
+        }
+        return temp;
     }
 
     // 同型
