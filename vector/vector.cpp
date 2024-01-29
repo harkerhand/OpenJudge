@@ -11,8 +11,9 @@ int main()
     Matrix matrixB(b);
     Matrix matrixC = matrixA + matrixB;
     cout << matrixC;
-    cout << matrixC.determinant() << endl;
-    cout << matrixC.adjoint();
+    ++matrixC;
+    cout << (matrixC++)++;
+    cout << matrixC;
 
     return 0;
 }

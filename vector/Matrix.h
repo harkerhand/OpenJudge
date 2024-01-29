@@ -86,17 +86,56 @@ public:
         }
     }
 
-    friend ostream &operator<<(ostream &output, const Matrix &temp)
+    Matrix &operator++()
     {
-        for (int i = 0; i < temp.row; i++)
+        for (auto &i : matrix)
         {
-            for (int j = 0; j < temp.line; j++)
+            for (auto &j : i)
             {
-                output << setw(5) << temp.matrix[i][j];
+                j++;
             }
-            output << endl;
         }
-        return output;
+        return *this;
+    }
+
+    Matrix operator++(int) // 支持链式调用
+    {
+        Matrix temp = *this;           // 拷贝
+        static Matrix &record = *this; // 原地址
+        for (auto &i : record.matrix)
+        {
+            for (auto &j : i)
+            {
+                j++;
+            }
+        }
+        return temp;
+    }
+
+    /* Matrix operator++(int) // 不支持链式调用
+    {
+        Matrix temp = *this;
+        for (auto &i : this->matrix)
+        {
+            for (auto &j : i)
+            {
+                j++;
+            }
+        }
+        return temp;
+    } */
+
+    friend ostream &operator<<(ostream &out, const Matrix &temp)
+    {
+        for (auto i : temp.matrix)
+        {
+            for (auto j : i)
+            {
+                out << setw(5) << j;
+            }
+            out << endl;
+        }
+        return out;
     }
 
     // 转置
@@ -128,11 +167,11 @@ public:
     // 归零
     void toZero()
     {
-        for (unsigned int i = 0; i < row; i++)
+        for (auto &i : matrix)
         {
-            for (unsigned int j = 0; j < line; j++)
+            for (auto &j : i)
             {
-                matrix[i][j] = 0;
+                j = 0;
             }
         }
     }
