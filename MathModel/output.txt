@@ -1,0 +1,8400 @@
+id 1
+max 3000
+size 1710 670 880 670
+num 0 15
+end
+id 2
+max 3000
+size 1710 670 880 670
+num 1 13
+end
+id 3
+max 3000
+size 1710 670 880 670
+num 2 11
+end
+id 4
+max 3000
+size 1710 670 880 670
+num 3 9
+end
+id 5
+max 3000
+size 1710 670 880 670
+num 4 7
+end
+id 6
+max 3000
+size 1710 670 880 670
+num 5 5
+end
+id 7
+max 3000
+size 1710 670 880 670
+num 6 3
+end
+id 8
+max 3000
+size 1710 670 880 670
+num 7 1
+end
+id 9
+max 2500
+size 1710 670 880 670
+num 0 10
+end
+id 10
+max 2500
+size 1710 670 880 670
+num 1 8
+end
+id 11
+max 2500
+size 1710 670 880 670
+num 2 6
+end
+id 12
+max 2500
+size 1710 670 880 670
+num 3 4
+end
+id 13
+max 2500
+size 1710 670 880 670
+num 4 2
+end
+id 14
+max 2500
+size 1710 670 880 670
+num 5 0
+end
+id 15
+max 2000
+size 1710 670 880 670
+num 0 6
+end
+id 16
+max 2000
+size 1710 670 880 670
+num 1 4
+end
+id 17
+max 2000
+size 1710 670 880 670
+num 2 2
+end
+id 18
+max 2000
+size 1710 670 880 670
+num 3 0
+end
+id 19
+max 1500
+size 1710 670 880 670
+num 0 3
+end
+id 20
+max 1500
+size 1710 670 880 670
+num 1 1
+end
+id 21
+max 3000
+size 1590 530 820 530
+num 0 20
+end
+id 22
+max 3000
+size 1590 530 820 530
+num 1 18
+end
+id 23
+max 3000
+size 1590 530 820 530
+num 2 16
+end
+id 24
+max 3000
+size 1590 530 820 530
+num 3 14
+end
+id 25
+max 3000
+size 1590 530 820 530
+num 4 12
+end
+id 26
+max 3000
+size 1590 530 820 530
+num 5 11
+end
+id 27
+max 3000
+size 1590 530 820 530
+num 6 9
+end
+id 28
+max 3000
+size 1590 530 820 530
+num 7 7
+end
+id 29
+max 3000
+size 1590 530 820 530
+num 8 5
+end
+id 30
+max 3000
+size 1590 530 820 530
+num 9 3
+end
+id 31
+max 3000
+size 1590 530 820 530
+num 10 1
+end
+id 32
+max 2500
+size 1590 530 820 530
+num 0 14
+end
+id 33
+max 2500
+size 1590 530 820 530
+num 1 12
+end
+id 34
+max 2500
+size 1590 530 820 530
+num 2 10
+end
+id 35
+max 2500
+size 1590 530 820 530
+num 3 8
+end
+id 36
+max 2500
+size 1590 530 820 530
+num 4 6
+end
+id 37
+max 2500
+size 1590 530 820 530
+num 5 4
+end
+id 38
+max 2500
+size 1590 530 820 530
+num 6 2
+end
+id 39
+max 2500
+size 1590 530 820 530
+num 7 0
+end
+id 40
+max 2000
+size 1590 530 820 530
+num 0 9
+end
+id 41
+max 2000
+size 1590 530 820 530
+num 1 7
+end
+id 42
+max 2000
+size 1590 530 820 530
+num 2 5
+end
+id 43
+max 2000
+size 1590 530 820 530
+num 3 3
+end
+id 44
+max 2000
+size 1590 530 820 530
+num 4 1
+end
+id 45
+max 1500
+size 1590 530 820 530
+num 0 5
+end
+id 46
+max 1500
+size 1590 530 820 530
+num 1 3
+end
+id 47
+max 1500
+size 1590 530 820 530
+num 2 1
+end
+id 48
+max 3000
+size 1330 480 690 480
+num 0 27
+end
+id 49
+max 3000
+size 1330 480 690 480
+num 1 25
+end
+id 50
+max 3000
+size 1330 480 690 480
+num 2 23
+end
+id 51
+max 3000
+size 1330 480 690 480
+num 3 21
+end
+id 52
+max 3000
+size 1330 480 690 480
+num 4 19
+end
+id 53
+max 3000
+size 1330 480 690 480
+num 5 17
+end
+id 54
+max 3000
+size 1330 480 690 480
+num 6 15
+end
+id 55
+max 3000
+size 1330 480 690 480
+num 7 13
+end
+id 56
+max 3000
+size 1330 480 690 480
+num 8 11
+end
+id 57
+max 3000
+size 1330 480 690 480
+num 9 9
+end
+id 58
+max 3000
+size 1330 480 690 480
+num 10 7
+end
+id 59
+max 3000
+size 1330 480 690 480
+num 11 5
+end
+id 60
+max 3000
+size 1330 480 690 480
+num 12 4
+end
+id 61
+max 3000
+size 1330 480 690 480
+num 13 2
+end
+id 62
+max 3000
+size 1330 480 690 480
+num 14 0
+end
+id 63
+max 2500
+size 1330 480 690 480
+num 0 18
+end
+id 64
+max 2500
+size 1330 480 690 480
+num 1 16
+end
+id 65
+max 2500
+size 1330 480 690 480
+num 2 15
+end
+id 66
+max 2500
+size 1330 480 690 480
+num 3 13
+end
+id 67
+max 2500
+size 1330 480 690 480
+num 4 11
+end
+id 68
+max 2500
+size 1330 480 690 480
+num 5 9
+end
+id 69
+max 2500
+size 1330 480 690 480
+num 6 7
+end
+id 70
+max 2500
+size 1330 480 690 480
+num 7 5
+end
+id 71
+max 2500
+size 1330 480 690 480
+num 8 3
+end
+id 72
+max 2500
+size 1330 480 690 480
+num 9 1
+end
+id 73
+max 2000
+size 1330 480 690 480
+num 0 12
+end
+id 74
+max 2000
+size 1330 480 690 480
+num 1 10
+end
+id 75
+max 2000
+size 1330 480 690 480
+num 2 8
+end
+id 76
+max 2000
+size 1330 480 690 480
+num 3 6
+end
+id 77
+max 2000
+size 1330 480 690 480
+num 4 4
+end
+id 78
+max 2000
+size 1330 480 690 480
+num 5 2
+end
+id 79
+max 2000
+size 1330 480 690 480
+num 6 0
+end
+id 80
+max 1500
+size 1330 480 690 480
+num 0 6
+end
+id 81
+max 1500
+size 1330 480 690 480
+num 1 4
+end
+id 82
+max 1500
+size 1330 480 690 480
+num 2 2
+end
+id 83
+max 1500
+size 1330 480 690 480
+num 3 1
+end
+id 84
+max 3000
+size 1130 420 590 420
+num 0 36
+end
+id 85
+max 3000
+size 1130 420 590 420
+num 1 34
+end
+id 86
+max 3000
+size 1130 420 590 420
+num 2 32
+end
+id 87
+max 3000
+size 1130 420 590 420
+num 3 30
+end
+id 88
+max 3000
+size 1130 420 590 420
+num 4 28
+end
+id 89
+max 3000
+size 1130 420 590 420
+num 5 26
+end
+id 90
+max 3000
+size 1130 420 590 420
+num 6 24
+end
+id 91
+max 3000
+size 1130 420 590 420
+num 7 22
+end
+id 92
+max 3000
+size 1130 420 590 420
+num 8 20
+end
+id 93
+max 3000
+size 1130 420 590 420
+num 9 19
+end
+id 94
+max 3000
+size 1130 420 590 420
+num 10 17
+end
+id 95
+max 3000
+size 1130 420 590 420
+num 11 15
+end
+id 96
+max 3000
+size 1130 420 590 420
+num 12 13
+end
+id 97
+max 3000
+size 1130 420 590 420
+num 13 11
+end
+id 98
+max 3000
+size 1130 420 590 420
+num 14 9
+end
+id 99
+max 3000
+size 1130 420 590 420
+num 15 7
+end
+id 100
+max 3000
+size 1130 420 590 420
+num 16 5
+end
+id 101
+max 3000
+size 1130 420 590 420
+num 17 3
+end
+id 102
+max 3000
+size 1130 420 590 420
+num 18 1
+end
+id 103
+max 2500
+size 1130 420 590 420
+num 0 25
+end
+id 104
+max 2500
+size 1130 420 590 420
+num 1 23
+end
+id 105
+max 2500
+size 1130 420 590 420
+num 2 21
+end
+id 106
+max 2500
+size 1130 420 590 420
+num 3 19
+end
+id 107
+max 2500
+size 1130 420 590 420
+num 4 17
+end
+id 108
+max 2500
+size 1130 420 590 420
+num 5 15
+end
+id 109
+max 2500
+size 1130 420 590 420
+num 6 13
+end
+id 110
+max 2500
+size 1130 420 590 420
+num 7 11
+end
+id 111
+max 2500
+size 1130 420 590 420
+num 8 9
+end
+id 112
+max 2500
+size 1130 420 590 420
+num 9 7
+end
+id 113
+max 2500
+size 1130 420 590 420
+num 10 6
+end
+id 114
+max 2500
+size 1130 420 590 420
+num 11 4
+end
+id 115
+max 2500
+size 1130 420 590 420
+num 12 2
+end
+id 116
+max 2500
+size 1130 420 590 420
+num 13 0
+end
+id 117
+max 2000
+size 1130 420 590 420
+num 0 16
+end
+id 118
+max 2000
+size 1130 420 590 420
+num 1 14
+end
+id 119
+max 2000
+size 1130 420 590 420
+num 2 12
+end
+id 120
+max 2000
+size 1130 420 590 420
+num 3 10
+end
+id 121
+max 2000
+size 1130 420 590 420
+num 4 8
+end
+id 122
+max 2000
+size 1130 420 590 420
+num 5 6
+end
+id 123
+max 2000
+size 1130 420 590 420
+num 6 4
+end
+id 124
+max 2000
+size 1130 420 590 420
+num 7 2
+end
+id 125
+max 2000
+size 1130 420 590 420
+num 8 0
+end
+id 126
+max 1500
+size 1130 420 590 420
+num 0 9
+end
+id 127
+max 1500
+size 1130 420 590 420
+num 1 7
+end
+id 128
+max 1500
+size 1130 420 590 420
+num 2 5
+end
+id 129
+max 1500
+size 1130 420 590 420
+num 3 3
+end
+id 130
+max 1500
+size 1130 420 590 420
+num 4 1
+end
+id 131
+max 3000
+size 970 360 510 360
+num 0 49
+end
+id 132
+max 3000
+size 970 360 510 360
+num 1 47
+end
+id 133
+max 3000
+size 970 360 510 360
+num 2 45
+end
+id 134
+max 3000
+size 970 360 510 360
+num 3 43
+end
+id 135
+max 3000
+size 970 360 510 360
+num 4 41
+end
+id 136
+max 3000
+size 970 360 510 360
+num 5 39
+end
+id 137
+max 3000
+size 970 360 510 360
+num 6 37
+end
+id 138
+max 3000
+size 970 360 510 360
+num 7 35
+end
+id 139
+max 3000
+size 970 360 510 360
+num 8 33
+end
+id 140
+max 3000
+size 970 360 510 360
+num 9 31
+end
+id 141
+max 3000
+size 970 360 510 360
+num 10 30
+end
+id 142
+max 3000
+size 970 360 510 360
+num 11 28
+end
+id 143
+max 3000
+size 970 360 510 360
+num 12 26
+end
+id 144
+max 3000
+size 970 360 510 360
+num 13 24
+end
+id 145
+max 3000
+size 970 360 510 360
+num 14 22
+end
+id 146
+max 3000
+size 970 360 510 360
+num 15 20
+end
+id 147
+max 3000
+size 970 360 510 360
+num 16 18
+end
+id 148
+max 3000
+size 970 360 510 360
+num 17 16
+end
+id 149
+max 3000
+size 970 360 510 360
+num 18 14
+end
+id 150
+max 3000
+size 970 360 510 360
+num 19 12
+end
+id 151
+max 3000
+size 970 360 510 360
+num 20 10
+end
+id 152
+max 3000
+size 970 360 510 360
+num 21 9
+end
+id 153
+max 3000
+size 970 360 510 360
+num 22 7
+end
+id 154
+max 3000
+size 970 360 510 360
+num 23 5
+end
+id 155
+max 3000
+size 970 360 510 360
+num 24 3
+end
+id 156
+max 3000
+size 970 360 510 360
+num 25 1
+end
+id 157
+max 2500
+size 970 360 510 360
+num 0 34
+end
+id 158
+max 2500
+size 970 360 510 360
+num 1 32
+end
+id 159
+max 2500
+size 970 360 510 360
+num 2 30
+end
+id 160
+max 2500
+size 970 360 510 360
+num 3 28
+end
+id 161
+max 2500
+size 970 360 510 360
+num 4 26
+end
+id 162
+max 2500
+size 970 360 510 360
+num 5 24
+end
+id 163
+max 2500
+size 970 360 510 360
+num 6 22
+end
+id 164
+max 2500
+size 970 360 510 360
+num 7 20
+end
+id 165
+max 2500
+size 970 360 510 360
+num 8 18
+end
+id 166
+max 2500
+size 970 360 510 360
+num 9 16
+end
+id 167
+max 2500
+size 970 360 510 360
+num 10 15
+end
+id 168
+max 2500
+size 970 360 510 360
+num 11 13
+end
+id 169
+max 2500
+size 970 360 510 360
+num 12 11
+end
+id 170
+max 2500
+size 970 360 510 360
+num 13 9
+end
+id 171
+max 2500
+size 970 360 510 360
+num 14 7
+end
+id 172
+max 2500
+size 970 360 510 360
+num 15 5
+end
+id 173
+max 2500
+size 970 360 510 360
+num 16 3
+end
+id 174
+max 2500
+size 970 360 510 360
+num 17 1
+end
+id 175
+max 2000
+size 970 360 510 360
+num 0 21
+end
+id 176
+max 2000
+size 970 360 510 360
+num 1 19
+end
+id 177
+max 2000
+size 970 360 510 360
+num 2 17
+end
+id 178
+max 2000
+size 970 360 510 360
+num 3 16
+end
+id 179
+max 2000
+size 970 360 510 360
+num 4 14
+end
+id 180
+max 2000
+size 970 360 510 360
+num 5 12
+end
+id 181
+max 2000
+size 970 360 510 360
+num 6 10
+end
+id 182
+max 2000
+size 970 360 510 360
+num 7 8
+end
+id 183
+max 2000
+size 970 360 510 360
+num 8 6
+end
+id 184
+max 2000
+size 970 360 510 360
+num 9 4
+end
+id 185
+max 2000
+size 970 360 510 360
+num 10 2
+end
+id 186
+max 2000
+size 970 360 510 360
+num 11 0
+end
+id 187
+max 1500
+size 970 360 510 360
+num 0 12
+end
+id 188
+max 1500
+size 970 360 510 360
+num 1 10
+end
+id 189
+max 1500
+size 970 360 510 360
+num 2 8
+end
+id 190
+max 1500
+size 970 360 510 360
+num 3 6
+end
+id 191
+max 1500
+size 970 360 510 360
+num 4 4
+end
+id 192
+max 1500
+size 970 360 510 360
+num 5 2
+end
+id 193
+max 1500
+size 970 360 510 360
+num 6 0
+end
+id 194
+max 3000
+size 850 330 450 330
+num 0 60
+end
+id 195
+max 3000
+size 850 330 450 330
+num 1 58
+end
+id 196
+max 3000
+size 850 330 450 330
+num 2 56
+end
+id 197
+max 3000
+size 850 330 450 330
+num 3 54
+end
+id 198
+max 3000
+size 850 330 450 330
+num 4 53
+end
+id 199
+max 3000
+size 850 330 450 330
+num 5 51
+end
+id 200
+max 3000
+size 850 330 450 330
+num 6 49
+end
+id 201
+max 3000
+size 850 330 450 330
+num 7 47
+end
+id 202
+max 3000
+size 850 330 450 330
+num 8 45
+end
+id 203
+max 3000
+size 850 330 450 330
+num 9 43
+end
+id 204
+max 3000
+size 850 330 450 330
+num 10 41
+end
+id 205
+max 3000
+size 850 330 450 330
+num 11 39
+end
+id 206
+max 3000
+size 850 330 450 330
+num 12 37
+end
+id 207
+max 3000
+size 850 330 450 330
+num 13 36
+end
+id 208
+max 3000
+size 850 330 450 330
+num 14 34
+end
+id 209
+max 3000
+size 850 330 450 330
+num 15 32
+end
+id 210
+max 3000
+size 850 330 450 330
+num 16 30
+end
+id 211
+max 3000
+size 850 330 450 330
+num 17 28
+end
+id 212
+max 3000
+size 850 330 450 330
+num 18 26
+end
+id 213
+max 3000
+size 850 330 450 330
+num 19 24
+end
+id 214
+max 3000
+size 850 330 450 330
+num 20 22
+end
+id 215
+max 3000
+size 850 330 450 330
+num 21 20
+end
+id 216
+max 3000
+size 850 330 450 330
+num 22 19
+end
+id 217
+max 3000
+size 850 330 450 330
+num 23 17
+end
+id 218
+max 3000
+size 850 330 450 330
+num 24 15
+end
+id 219
+max 3000
+size 850 330 450 330
+num 25 13
+end
+id 220
+max 3000
+size 850 330 450 330
+num 26 11
+end
+id 221
+max 3000
+size 850 330 450 330
+num 27 9
+end
+id 222
+max 3000
+size 850 330 450 330
+num 28 7
+end
+id 223
+max 3000
+size 850 330 450 330
+num 29 5
+end
+id 224
+max 3000
+size 850 330 450 330
+num 30 3
+end
+id 225
+max 3000
+size 850 330 450 330
+num 31 2
+end
+id 226
+max 3000
+size 850 330 450 330
+num 32 0
+end
+id 227
+max 2500
+size 850 330 450 330
+num 0 42
+end
+id 228
+max 2500
+size 850 330 450 330
+num 1 40
+end
+id 229
+max 2500
+size 850 330 450 330
+num 2 38
+end
+id 230
+max 2500
+size 850 330 450 330
+num 3 36
+end
+id 231
+max 2500
+size 850 330 450 330
+num 4 34
+end
+id 232
+max 2500
+size 850 330 450 330
+num 5 32
+end
+id 233
+max 2500
+size 850 330 450 330
+num 6 30
+end
+id 234
+max 2500
+size 850 330 450 330
+num 7 28
+end
+id 235
+max 2500
+size 850 330 450 330
+num 8 26
+end
+id 236
+max 2500
+size 850 330 450 330
+num 9 25
+end
+id 237
+max 2500
+size 850 330 450 330
+num 10 23
+end
+id 238
+max 2500
+size 850 330 450 330
+num 11 21
+end
+id 239
+max 2500
+size 850 330 450 330
+num 12 19
+end
+id 240
+max 2500
+size 850 330 450 330
+num 13 17
+end
+id 241
+max 2500
+size 850 330 450 330
+num 14 15
+end
+id 242
+max 2500
+size 850 330 450 330
+num 15 13
+end
+id 243
+max 2500
+size 850 330 450 330
+num 16 11
+end
+id 244
+max 2500
+size 850 330 450 330
+num 17 9
+end
+id 245
+max 2500
+size 850 330 450 330
+num 18 8
+end
+id 246
+max 2500
+size 850 330 450 330
+num 19 6
+end
+id 247
+max 2500
+size 850 330 450 330
+num 20 4
+end
+id 248
+max 2500
+size 850 330 450 330
+num 21 2
+end
+id 249
+max 2500
+size 850 330 450 330
+num 22 0
+end
+id 250
+max 2000
+size 850 330 450 330
+num 0 26
+end
+id 251
+max 2000
+size 850 330 450 330
+num 1 25
+end
+id 252
+max 2000
+size 850 330 450 330
+num 2 23
+end
+id 253
+max 2000
+size 850 330 450 330
+num 3 21
+end
+id 254
+max 2000
+size 850 330 450 330
+num 4 19
+end
+id 255
+max 2000
+size 850 330 450 330
+num 5 17
+end
+id 256
+max 2000
+size 850 330 450 330
+num 6 15
+end
+id 257
+max 2000
+size 850 330 450 330
+num 7 13
+end
+id 258
+max 2000
+size 850 330 450 330
+num 8 11
+end
+id 259
+max 2000
+size 850 330 450 330
+num 9 9
+end
+id 260
+max 2000
+size 850 330 450 330
+num 10 8
+end
+id 261
+max 2000
+size 850 330 450 330
+num 11 6
+end
+id 262
+max 2000
+size 850 330 450 330
+num 12 4
+end
+id 263
+max 2000
+size 850 330 450 330
+num 13 2
+end
+id 264
+max 2000
+size 850 330 450 330
+num 14 0
+end
+id 265
+max 1500
+size 850 330 450 330
+num 0 15
+end
+id 266
+max 1500
+size 850 330 450 330
+num 1 13
+end
+id 267
+max 1500
+size 850 330 450 330
+num 2 11
+end
+id 268
+max 1500
+size 850 330 450 330
+num 3 9
+end
+id 269
+max 1500
+size 850 330 450 330
+num 4 7
+end
+id 270
+max 1500
+size 850 330 450 330
+num 5 5
+end
+id 271
+max 1500
+size 850 330 450 330
+num 6 3
+end
+id 272
+max 1500
+size 850 330 450 330
+num 7 1
+end
+id 273
+max 1500
+size 850 330 450 330
+num 8 0
+end
+id 274
+max 3000
+size 770 290 410 290
+num 0 75
+end
+id 275
+max 3000
+size 770 290 410 290
+num 1 73
+end
+id 276
+max 3000
+size 770 290 410 290
+num 2 71
+end
+id 277
+max 3000
+size 770 290 410 290
+num 3 70
+end
+id 278
+max 3000
+size 770 290 410 290
+num 4 68
+end
+id 279
+max 3000
+size 770 290 410 290
+num 5 66
+end
+id 280
+max 3000
+size 770 290 410 290
+num 6 64
+end
+id 281
+max 3000
+size 770 290 410 290
+num 7 62
+end
+id 282
+max 3000
+size 770 290 410 290
+num 8 60
+end
+id 283
+max 3000
+size 770 290 410 290
+num 9 58
+end
+id 284
+max 3000
+size 770 290 410 290
+num 10 56
+end
+id 285
+max 3000
+size 770 290 410 290
+num 11 55
+end
+id 286
+max 3000
+size 770 290 410 290
+num 12 53
+end
+id 287
+max 3000
+size 770 290 410 290
+num 13 51
+end
+id 288
+max 3000
+size 770 290 410 290
+num 14 49
+end
+id 289
+max 3000
+size 770 290 410 290
+num 15 47
+end
+id 290
+max 3000
+size 770 290 410 290
+num 16 45
+end
+id 291
+max 3000
+size 770 290 410 290
+num 17 43
+end
+id 292
+max 3000
+size 770 290 410 290
+num 18 41
+end
+id 293
+max 3000
+size 770 290 410 290
+num 19 40
+end
+id 294
+max 3000
+size 770 290 410 290
+num 20 38
+end
+id 295
+max 3000
+size 770 290 410 290
+num 21 36
+end
+id 296
+max 3000
+size 770 290 410 290
+num 22 34
+end
+id 297
+max 3000
+size 770 290 410 290
+num 23 32
+end
+id 298
+max 3000
+size 770 290 410 290
+num 24 30
+end
+id 299
+max 3000
+size 770 290 410 290
+num 25 28
+end
+id 300
+max 3000
+size 770 290 410 290
+num 26 26
+end
+id 301
+max 3000
+size 770 290 410 290
+num 27 24
+end
+id 302
+max 3000
+size 770 290 410 290
+num 28 23
+end
+id 303
+max 3000
+size 770 290 410 290
+num 29 21
+end
+id 304
+max 3000
+size 770 290 410 290
+num 30 19
+end
+id 305
+max 3000
+size 770 290 410 290
+num 31 17
+end
+id 306
+max 3000
+size 770 290 410 290
+num 32 15
+end
+id 307
+max 3000
+size 770 290 410 290
+num 33 13
+end
+id 308
+max 3000
+size 770 290 410 290
+num 34 11
+end
+id 309
+max 3000
+size 770 290 410 290
+num 35 9
+end
+id 310
+max 3000
+size 770 290 410 290
+num 36 8
+end
+id 311
+max 3000
+size 770 290 410 290
+num 37 6
+end
+id 312
+max 3000
+size 770 290 410 290
+num 38 4
+end
+id 313
+max 3000
+size 770 290 410 290
+num 39 2
+end
+id 314
+max 3000
+size 770 290 410 290
+num 40 0
+end
+id 315
+max 2500
+size 770 290 410 290
+num 0 52
+end
+id 316
+max 2500
+size 770 290 410 290
+num 1 50
+end
+id 317
+max 2500
+size 770 290 410 290
+num 2 48
+end
+id 318
+max 2500
+size 770 290 410 290
+num 3 46
+end
+id 319
+max 2500
+size 770 290 410 290
+num 4 45
+end
+id 320
+max 2500
+size 770 290 410 290
+num 5 43
+end
+id 321
+max 2500
+size 770 290 410 290
+num 6 41
+end
+id 322
+max 2500
+size 770 290 410 290
+num 7 39
+end
+id 323
+max 2500
+size 770 290 410 290
+num 8 37
+end
+id 324
+max 2500
+size 770 290 410 290
+num 9 35
+end
+id 325
+max 2500
+size 770 290 410 290
+num 10 33
+end
+id 326
+max 2500
+size 770 290 410 290
+num 11 31
+end
+id 327
+max 2500
+size 770 290 410 290
+num 12 30
+end
+id 328
+max 2500
+size 770 290 410 290
+num 13 28
+end
+id 329
+max 2500
+size 770 290 410 290
+num 14 26
+end
+id 330
+max 2500
+size 770 290 410 290
+num 15 24
+end
+id 331
+max 2500
+size 770 290 410 290
+num 16 22
+end
+id 332
+max 2500
+size 770 290 410 290
+num 17 20
+end
+id 333
+max 2500
+size 770 290 410 290
+num 18 18
+end
+id 334
+max 2500
+size 770 290 410 290
+num 19 16
+end
+id 335
+max 2500
+size 770 290 410 290
+num 20 15
+end
+id 336
+max 2500
+size 770 290 410 290
+num 21 13
+end
+id 337
+max 2500
+size 770 290 410 290
+num 22 11
+end
+id 338
+max 2500
+size 770 290 410 290
+num 23 9
+end
+id 339
+max 2500
+size 770 290 410 290
+num 24 7
+end
+id 340
+max 2500
+size 770 290 410 290
+num 25 5
+end
+id 341
+max 2500
+size 770 290 410 290
+num 26 3
+end
+id 342
+max 2500
+size 770 290 410 290
+num 27 1
+end
+id 343
+max 2000
+size 770 290 410 290
+num 0 33
+end
+id 344
+max 2000
+size 770 290 410 290
+num 1 31
+end
+id 345
+max 2000
+size 770 290 410 290
+num 2 29
+end
+id 346
+max 2000
+size 770 290 410 290
+num 3 28
+end
+id 347
+max 2000
+size 770 290 410 290
+num 4 26
+end
+id 348
+max 2000
+size 770 290 410 290
+num 5 24
+end
+id 349
+max 2000
+size 770 290 410 290
+num 6 22
+end
+id 350
+max 2000
+size 770 290 410 290
+num 7 20
+end
+id 351
+max 2000
+size 770 290 410 290
+num 8 18
+end
+id 352
+max 2000
+size 770 290 410 290
+num 9 16
+end
+id 353
+max 2000
+size 770 290 410 290
+num 10 14
+end
+id 354
+max 2000
+size 770 290 410 290
+num 11 12
+end
+id 355
+max 2000
+size 770 290 410 290
+num 12 11
+end
+id 356
+max 2000
+size 770 290 410 290
+num 13 9
+end
+id 357
+max 2000
+size 770 290 410 290
+num 14 7
+end
+id 358
+max 2000
+size 770 290 410 290
+num 15 5
+end
+id 359
+max 2000
+size 770 290 410 290
+num 16 3
+end
+id 360
+max 2000
+size 770 290 410 290
+num 17 1
+end
+id 361
+max 1500
+size 770 290 410 290
+num 0 18
+end
+id 362
+max 1500
+size 770 290 410 290
+num 1 17
+end
+id 363
+max 1500
+size 770 290 410 290
+num 2 15
+end
+id 364
+max 1500
+size 770 290 410 290
+num 3 13
+end
+id 365
+max 1500
+size 770 290 410 290
+num 4 11
+end
+id 366
+max 1500
+size 770 290 410 290
+num 5 9
+end
+id 367
+max 1500
+size 770 290 410 290
+num 6 7
+end
+id 368
+max 1500
+size 770 290 410 290
+num 7 5
+end
+id 369
+max 1500
+size 770 290 410 290
+num 8 3
+end
+id 370
+max 1500
+size 770 290 410 290
+num 9 2
+end
+id 371
+max 1500
+size 770 290 410 290
+num 10 0
+end
+id 372
+max 3000
+size 690 250 370 250
+num 0 97
+end
+id 373
+max 3000
+size 690 250 370 250
+num 1 95
+end
+id 374
+max 3000
+size 690 250 370 250
+num 2 93
+end
+id 375
+max 3000
+size 690 250 370 250
+num 3 91
+end
+id 376
+max 3000
+size 690 250 370 250
+num 4 89
+end
+id 377
+max 3000
+size 690 250 370 250
+num 5 87
+end
+id 378
+max 3000
+size 690 250 370 250
+num 6 86
+end
+id 379
+max 3000
+size 690 250 370 250
+num 7 84
+end
+id 380
+max 3000
+size 690 250 370 250
+num 8 82
+end
+id 381
+max 3000
+size 690 250 370 250
+num 9 80
+end
+id 382
+max 3000
+size 690 250 370 250
+num 10 78
+end
+id 383
+max 3000
+size 690 250 370 250
+num 11 76
+end
+id 384
+max 3000
+size 690 250 370 250
+num 12 74
+end
+id 385
+max 3000
+size 690 250 370 250
+num 13 73
+end
+id 386
+max 3000
+size 690 250 370 250
+num 14 71
+end
+id 387
+max 3000
+size 690 250 370 250
+num 15 69
+end
+id 388
+max 3000
+size 690 250 370 250
+num 16 67
+end
+id 389
+max 3000
+size 690 250 370 250
+num 17 65
+end
+id 390
+max 3000
+size 690 250 370 250
+num 18 63
+end
+id 391
+max 3000
+size 690 250 370 250
+num 19 61
+end
+id 392
+max 3000
+size 690 250 370 250
+num 20 60
+end
+id 393
+max 3000
+size 690 250 370 250
+num 21 58
+end
+id 394
+max 3000
+size 690 250 370 250
+num 22 56
+end
+id 395
+max 3000
+size 690 250 370 250
+num 23 54
+end
+id 396
+max 3000
+size 690 250 370 250
+num 24 52
+end
+id 397
+max 3000
+size 690 250 370 250
+num 25 50
+end
+id 398
+max 3000
+size 690 250 370 250
+num 26 48
+end
+id 399
+max 3000
+size 690 250 370 250
+num 27 46
+end
+id 400
+max 3000
+size 690 250 370 250
+num 28 45
+end
+id 401
+max 3000
+size 690 250 370 250
+num 29 43
+end
+id 402
+max 3000
+size 690 250 370 250
+num 30 41
+end
+id 403
+max 3000
+size 690 250 370 250
+num 31 39
+end
+id 404
+max 3000
+size 690 250 370 250
+num 32 37
+end
+id 405
+max 3000
+size 690 250 370 250
+num 33 35
+end
+id 406
+max 3000
+size 690 250 370 250
+num 34 33
+end
+id 407
+max 3000
+size 690 250 370 250
+num 35 32
+end
+id 408
+max 3000
+size 690 250 370 250
+num 36 30
+end
+id 409
+max 3000
+size 690 250 370 250
+num 37 28
+end
+id 410
+max 3000
+size 690 250 370 250
+num 38 26
+end
+id 411
+max 3000
+size 690 250 370 250
+num 39 24
+end
+id 412
+max 3000
+size 690 250 370 250
+num 40 22
+end
+id 413
+max 3000
+size 690 250 370 250
+num 41 20
+end
+id 414
+max 3000
+size 690 250 370 250
+num 42 18
+end
+id 415
+max 3000
+size 690 250 370 250
+num 43 17
+end
+id 416
+max 3000
+size 690 250 370 250
+num 44 15
+end
+id 417
+max 3000
+size 690 250 370 250
+num 45 13
+end
+id 418
+max 3000
+size 690 250 370 250
+num 46 11
+end
+id 419
+max 3000
+size 690 250 370 250
+num 47 9
+end
+id 420
+max 3000
+size 690 250 370 250
+num 48 7
+end
+id 421
+max 3000
+size 690 250 370 250
+num 49 5
+end
+id 422
+max 3000
+size 690 250 370 250
+num 50 4
+end
+id 423
+max 3000
+size 690 250 370 250
+num 51 2
+end
+id 424
+max 3000
+size 690 250 370 250
+num 52 0
+end
+id 425
+max 2500
+size 690 250 370 250
+num 0 67
+end
+id 426
+max 2500
+size 690 250 370 250
+num 1 65
+end
+id 427
+max 2500
+size 690 250 370 250
+num 2 63
+end
+id 428
+max 2500
+size 690 250 370 250
+num 3 61
+end
+id 429
+max 2500
+size 690 250 370 250
+num 4 60
+end
+id 430
+max 2500
+size 690 250 370 250
+num 5 58
+end
+id 431
+max 2500
+size 690 250 370 250
+num 6 56
+end
+id 432
+max 2500
+size 690 250 370 250
+num 7 54
+end
+id 433
+max 2500
+size 690 250 370 250
+num 8 52
+end
+id 434
+max 2500
+size 690 250 370 250
+num 9 50
+end
+id 435
+max 2500
+size 690 250 370 250
+num 10 48
+end
+id 436
+max 2500
+size 690 250 370 250
+num 11 47
+end
+id 437
+max 2500
+size 690 250 370 250
+num 12 45
+end
+id 438
+max 2500
+size 690 250 370 250
+num 13 43
+end
+id 439
+max 2500
+size 690 250 370 250
+num 14 41
+end
+id 440
+max 2500
+size 690 250 370 250
+num 15 39
+end
+id 441
+max 2500
+size 690 250 370 250
+num 16 37
+end
+id 442
+max 2500
+size 690 250 370 250
+num 17 35
+end
+id 443
+max 2500
+size 690 250 370 250
+num 18 34
+end
+id 444
+max 2500
+size 690 250 370 250
+num 19 32
+end
+id 445
+max 2500
+size 690 250 370 250
+num 20 30
+end
+id 446
+max 2500
+size 690 250 370 250
+num 21 28
+end
+id 447
+max 2500
+size 690 250 370 250
+num 22 26
+end
+id 448
+max 2500
+size 690 250 370 250
+num 23 24
+end
+id 449
+max 2500
+size 690 250 370 250
+num 24 22
+end
+id 450
+max 2500
+size 690 250 370 250
+num 25 20
+end
+id 451
+max 2500
+size 690 250 370 250
+num 26 19
+end
+id 452
+max 2500
+size 690 250 370 250
+num 27 17
+end
+id 453
+max 2500
+size 690 250 370 250
+num 28 15
+end
+id 454
+max 2500
+size 690 250 370 250
+num 29 13
+end
+id 455
+max 2500
+size 690 250 370 250
+num 30 11
+end
+id 456
+max 2500
+size 690 250 370 250
+num 31 9
+end
+id 457
+max 2500
+size 690 250 370 250
+num 32 7
+end
+id 458
+max 2500
+size 690 250 370 250
+num 33 6
+end
+id 459
+max 2500
+size 690 250 370 250
+num 34 4
+end
+id 460
+max 2500
+size 690 250 370 250
+num 35 2
+end
+id 461
+max 2500
+size 690 250 370 250
+num 36 0
+end
+id 462
+max 2000
+size 690 250 370 250
+num 0 43
+end
+id 463
+max 2000
+size 690 250 370 250
+num 1 41
+end
+id 464
+max 2000
+size 690 250 370 250
+num 2 39
+end
+id 465
+max 2000
+size 690 250 370 250
+num 3 37
+end
+id 466
+max 2000
+size 690 250 370 250
+num 4 35
+end
+id 467
+max 2000
+size 690 250 370 250
+num 5 33
+end
+id 468
+max 2000
+size 690 250 370 250
+num 6 32
+end
+id 469
+max 2000
+size 690 250 370 250
+num 7 30
+end
+id 470
+max 2000
+size 690 250 370 250
+num 8 28
+end
+id 471
+max 2000
+size 690 250 370 250
+num 9 26
+end
+id 472
+max 2000
+size 690 250 370 250
+num 10 24
+end
+id 473
+max 2000
+size 690 250 370 250
+num 11 22
+end
+id 474
+max 2000
+size 690 250 370 250
+num 12 20
+end
+id 475
+max 2000
+size 690 250 370 250
+num 13 19
+end
+id 476
+max 2000
+size 690 250 370 250
+num 14 17
+end
+id 477
+max 2000
+size 690 250 370 250
+num 15 15
+end
+id 478
+max 2000
+size 690 250 370 250
+num 16 13
+end
+id 479
+max 2000
+size 690 250 370 250
+num 17 11
+end
+id 480
+max 2000
+size 690 250 370 250
+num 18 9
+end
+id 481
+max 2000
+size 690 250 370 250
+num 19 7
+end
+id 482
+max 2000
+size 690 250 370 250
+num 20 5
+end
+id 483
+max 2000
+size 690 250 370 250
+num 21 4
+end
+id 484
+max 2000
+size 690 250 370 250
+num 22 2
+end
+id 485
+max 2000
+size 690 250 370 250
+num 23 0
+end
+id 486
+max 1500
+size 690 250 370 250
+num 0 24
+end
+id 487
+max 1500
+size 690 250 370 250
+num 1 22
+end
+id 488
+max 1500
+size 690 250 370 250
+num 2 20
+end
+id 489
+max 1500
+size 690 250 370 250
+num 3 18
+end
+id 490
+max 1500
+size 690 250 370 250
+num 4 16
+end
+id 491
+max 1500
+size 690 250 370 250
+num 5 15
+end
+id 492
+max 1500
+size 690 250 370 250
+num 6 13
+end
+id 493
+max 1500
+size 690 250 370 250
+num 7 11
+end
+id 494
+max 1500
+size 690 250 370 250
+num 8 9
+end
+id 495
+max 1500
+size 690 250 370 250
+num 9 7
+end
+id 496
+max 1500
+size 690 250 370 250
+num 10 5
+end
+id 497
+max 1500
+size 690 250 370 250
+num 11 3
+end
+id 498
+max 1500
+size 690 250 370 250
+num 12 1
+end
+id 499
+max 1500
+size 690 250 370 250
+num 13 0
+end
+id 500
+max 3000
+size 650 240 350 240
+num 0 107
+end
+id 501
+max 3000
+size 650 240 350 240
+num 1 105
+end
+id 502
+max 3000
+size 650 240 350 240
+num 2 103
+end
+id 503
+max 3000
+size 650 240 350 240
+num 3 101
+end
+id 504
+max 3000
+size 650 240 350 240
+num 4 99
+end
+id 505
+max 3000
+size 650 240 350 240
+num 5 97
+end
+id 506
+max 3000
+size 650 240 350 240
+num 6 96
+end
+id 507
+max 3000
+size 650 240 350 240
+num 7 94
+end
+id 508
+max 3000
+size 650 240 350 240
+num 8 92
+end
+id 509
+max 3000
+size 650 240 350 240
+num 9 90
+end
+id 510
+max 3000
+size 650 240 350 240
+num 10 88
+end
+id 511
+max 3000
+size 650 240 350 240
+num 11 86
+end
+id 512
+max 3000
+size 650 240 350 240
+num 12 84
+end
+id 513
+max 3000
+size 650 240 350 240
+num 13 83
+end
+id 514
+max 3000
+size 650 240 350 240
+num 14 81
+end
+id 515
+max 3000
+size 650 240 350 240
+num 15 79
+end
+id 516
+max 3000
+size 650 240 350 240
+num 16 77
+end
+id 517
+max 3000
+size 650 240 350 240
+num 17 75
+end
+id 518
+max 3000
+size 650 240 350 240
+num 18 73
+end
+id 519
+max 3000
+size 650 240 350 240
+num 19 71
+end
+id 520
+max 3000
+size 650 240 350 240
+num 20 70
+end
+id 521
+max 3000
+size 650 240 350 240
+num 21 68
+end
+id 522
+max 3000
+size 650 240 350 240
+num 22 66
+end
+id 523
+max 3000
+size 650 240 350 240
+num 23 64
+end
+id 524
+max 3000
+size 650 240 350 240
+num 24 62
+end
+id 525
+max 3000
+size 650 240 350 240
+num 25 60
+end
+id 526
+max 3000
+size 650 240 350 240
+num 26 58
+end
+id 527
+max 3000
+size 650 240 350 240
+num 27 57
+end
+id 528
+max 3000
+size 650 240 350 240
+num 28 55
+end
+id 529
+max 3000
+size 650 240 350 240
+num 29 53
+end
+id 530
+max 3000
+size 650 240 350 240
+num 30 51
+end
+id 531
+max 3000
+size 650 240 350 240
+num 31 49
+end
+id 532
+max 3000
+size 650 240 350 240
+num 32 47
+end
+id 533
+max 3000
+size 650 240 350 240
+num 33 45
+end
+id 534
+max 3000
+size 650 240 350 240
+num 34 44
+end
+id 535
+max 3000
+size 650 240 350 240
+num 35 42
+end
+id 536
+max 3000
+size 650 240 350 240
+num 36 40
+end
+id 537
+max 3000
+size 650 240 350 240
+num 37 38
+end
+id 538
+max 3000
+size 650 240 350 240
+num 38 36
+end
+id 539
+max 3000
+size 650 240 350 240
+num 39 34
+end
+id 540
+max 3000
+size 650 240 350 240
+num 40 32
+end
+id 541
+max 3000
+size 650 240 350 240
+num 41 31
+end
+id 542
+max 3000
+size 650 240 350 240
+num 42 29
+end
+id 543
+max 3000
+size 650 240 350 240
+num 43 27
+end
+id 544
+max 3000
+size 650 240 350 240
+num 44 25
+end
+id 545
+max 3000
+size 650 240 350 240
+num 45 23
+end
+id 546
+max 3000
+size 650 240 350 240
+num 46 21
+end
+id 547
+max 3000
+size 650 240 350 240
+num 47 19
+end
+id 548
+max 3000
+size 650 240 350 240
+num 48 18
+end
+id 549
+max 3000
+size 650 240 350 240
+num 49 16
+end
+id 550
+max 3000
+size 650 240 350 240
+num 50 14
+end
+id 551
+max 3000
+size 650 240 350 240
+num 51 12
+end
+id 552
+max 3000
+size 650 240 350 240
+num 52 10
+end
+id 553
+max 3000
+size 650 240 350 240
+num 53 8
+end
+id 554
+max 3000
+size 650 240 350 240
+num 54 6
+end
+id 555
+max 3000
+size 650 240 350 240
+num 55 5
+end
+id 556
+max 3000
+size 650 240 350 240
+num 56 3
+end
+id 557
+max 3000
+size 650 240 350 240
+num 57 1
+end
+id 558
+max 2500
+size 650 240 350 240
+num 0 74
+end
+id 559
+max 2500
+size 650 240 350 240
+num 1 72
+end
+id 560
+max 2500
+size 650 240 350 240
+num 2 70
+end
+id 561
+max 2500
+size 650 240 350 240
+num 3 68
+end
+id 562
+max 2500
+size 650 240 350 240
+num 4 66
+end
+id 563
+max 2500
+size 650 240 350 240
+num 5 65
+end
+id 564
+max 2500
+size 650 240 350 240
+num 6 63
+end
+id 565
+max 2500
+size 650 240 350 240
+num 7 61
+end
+id 566
+max 2500
+size 650 240 350 240
+num 8 59
+end
+id 567
+max 2500
+size 650 240 350 240
+num 9 57
+end
+id 568
+max 2500
+size 650 240 350 240
+num 10 55
+end
+id 569
+max 2500
+size 650 240 350 240
+num 11 53
+end
+id 570
+max 2500
+size 650 240 350 240
+num 12 52
+end
+id 571
+max 2500
+size 650 240 350 240
+num 13 50
+end
+id 572
+max 2500
+size 650 240 350 240
+num 14 48
+end
+id 573
+max 2500
+size 650 240 350 240
+num 15 46
+end
+id 574
+max 2500
+size 650 240 350 240
+num 16 44
+end
+id 575
+max 2500
+size 650 240 350 240
+num 17 42
+end
+id 576
+max 2500
+size 650 240 350 240
+num 18 40
+end
+id 577
+max 2500
+size 650 240 350 240
+num 19 39
+end
+id 578
+max 2500
+size 650 240 350 240
+num 20 37
+end
+id 579
+max 2500
+size 650 240 350 240
+num 21 35
+end
+id 580
+max 2500
+size 650 240 350 240
+num 22 33
+end
+id 581
+max 2500
+size 650 240 350 240
+num 23 31
+end
+id 582
+max 2500
+size 650 240 350 240
+num 24 29
+end
+id 583
+max 2500
+size 650 240 350 240
+num 25 27
+end
+id 584
+max 2500
+size 650 240 350 240
+num 26 26
+end
+id 585
+max 2500
+size 650 240 350 240
+num 27 24
+end
+id 586
+max 2500
+size 650 240 350 240
+num 28 22
+end
+id 587
+max 2500
+size 650 240 350 240
+num 29 20
+end
+id 588
+max 2500
+size 650 240 350 240
+num 30 18
+end
+id 589
+max 2500
+size 650 240 350 240
+num 31 16
+end
+id 590
+max 2500
+size 650 240 350 240
+num 32 14
+end
+id 591
+max 2500
+size 650 240 350 240
+num 33 13
+end
+id 592
+max 2500
+size 650 240 350 240
+num 34 11
+end
+id 593
+max 2500
+size 650 240 350 240
+num 35 9
+end
+id 594
+max 2500
+size 650 240 350 240
+num 36 7
+end
+id 595
+max 2500
+size 650 240 350 240
+num 37 5
+end
+id 596
+max 2500
+size 650 240 350 240
+num 38 3
+end
+id 597
+max 2500
+size 650 240 350 240
+num 39 1
+end
+id 598
+max 2500
+size 650 240 350 240
+num 40 0
+end
+id 599
+max 2000
+size 650 240 350 240
+num 0 47
+end
+id 600
+max 2000
+size 650 240 350 240
+num 1 45
+end
+id 601
+max 2000
+size 650 240 350 240
+num 2 43
+end
+id 602
+max 2000
+size 650 240 350 240
+num 3 42
+end
+id 603
+max 2000
+size 650 240 350 240
+num 4 40
+end
+id 604
+max 2000
+size 650 240 350 240
+num 5 38
+end
+id 605
+max 2000
+size 650 240 350 240
+num 6 36
+end
+id 606
+max 2000
+size 650 240 350 240
+num 7 34
+end
+id 607
+max 2000
+size 650 240 350 240
+num 8 32
+end
+id 608
+max 2000
+size 650 240 350 240
+num 9 30
+end
+id 609
+max 2000
+size 650 240 350 240
+num 10 29
+end
+id 610
+max 2000
+size 650 240 350 240
+num 11 27
+end
+id 611
+max 2000
+size 650 240 350 240
+num 12 25
+end
+id 612
+max 2000
+size 650 240 350 240
+num 13 23
+end
+id 613
+max 2000
+size 650 240 350 240
+num 14 21
+end
+id 614
+max 2000
+size 650 240 350 240
+num 15 19
+end
+id 615
+max 2000
+size 650 240 350 240
+num 16 17
+end
+id 616
+max 2000
+size 650 240 350 240
+num 17 16
+end
+id 617
+max 2000
+size 650 240 350 240
+num 18 14
+end
+id 618
+max 2000
+size 650 240 350 240
+num 19 12
+end
+id 619
+max 2000
+size 650 240 350 240
+num 20 10
+end
+id 620
+max 2000
+size 650 240 350 240
+num 21 8
+end
+id 621
+max 2000
+size 650 240 350 240
+num 22 6
+end
+id 622
+max 2000
+size 650 240 350 240
+num 23 4
+end
+id 623
+max 2000
+size 650 240 350 240
+num 24 3
+end
+id 624
+max 2000
+size 650 240 350 240
+num 25 1
+end
+id 625
+max 1500
+size 650 240 350 240
+num 0 26
+end
+id 626
+max 1500
+size 650 240 350 240
+num 1 24
+end
+id 627
+max 1500
+size 650 240 350 240
+num 2 23
+end
+id 628
+max 1500
+size 650 240 350 240
+num 3 21
+end
+id 629
+max 1500
+size 650 240 350 240
+num 4 19
+end
+id 630
+max 1500
+size 650 240 350 240
+num 5 17
+end
+id 631
+max 1500
+size 650 240 350 240
+num 6 15
+end
+id 632
+max 1500
+size 650 240 350 240
+num 7 13
+end
+id 633
+max 1500
+size 650 240 350 240
+num 8 11
+end
+id 634
+max 1500
+size 650 240 350 240
+num 9 10
+end
+id 635
+max 1500
+size 650 240 350 240
+num 10 8
+end
+id 636
+max 1500
+size 650 240 350 240
+num 11 6
+end
+id 637
+max 1500
+size 650 240 350 240
+num 12 4
+end
+id 638
+max 1500
+size 650 240 350 240
+num 13 2
+end
+id 639
+max 1500
+size 650 240 350 240
+num 14 0
+end
+id 640
+max 3000
+size 590 210 320 210
+num 0 133
+end
+id 641
+max 3000
+size 590 210 320 210
+num 1 132
+end
+id 642
+max 3000
+size 590 210 320 210
+num 2 130
+end
+id 643
+max 3000
+size 590 210 320 210
+num 3 128
+end
+id 644
+max 3000
+size 590 210 320 210
+num 4 126
+end
+id 645
+max 3000
+size 590 210 320 210
+num 5 124
+end
+id 646
+max 3000
+size 590 210 320 210
+num 6 122
+end
+id 647
+max 3000
+size 590 210 320 210
+num 7 121
+end
+id 648
+max 3000
+size 590 210 320 210
+num 8 119
+end
+id 649
+max 3000
+size 590 210 320 210
+num 9 117
+end
+id 650
+max 3000
+size 590 210 320 210
+num 10 115
+end
+id 651
+max 3000
+size 590 210 320 210
+num 11 113
+end
+id 652
+max 3000
+size 590 210 320 210
+num 12 111
+end
+id 653
+max 3000
+size 590 210 320 210
+num 13 109
+end
+id 654
+max 3000
+size 590 210 320 210
+num 14 108
+end
+id 655
+max 3000
+size 590 210 320 210
+num 15 106
+end
+id 656
+max 3000
+size 590 210 320 210
+num 16 104
+end
+id 657
+max 3000
+size 590 210 320 210
+num 17 102
+end
+id 658
+max 3000
+size 590 210 320 210
+num 18 100
+end
+id 659
+max 3000
+size 590 210 320 210
+num 19 98
+end
+id 660
+max 3000
+size 590 210 320 210
+num 20 97
+end
+id 661
+max 3000
+size 590 210 320 210
+num 21 95
+end
+id 662
+max 3000
+size 590 210 320 210
+num 22 93
+end
+id 663
+max 3000
+size 590 210 320 210
+num 23 91
+end
+id 664
+max 3000
+size 590 210 320 210
+num 24 89
+end
+id 665
+max 3000
+size 590 210 320 210
+num 25 87
+end
+id 666
+max 3000
+size 590 210 320 210
+num 26 85
+end
+id 667
+max 3000
+size 590 210 320 210
+num 27 84
+end
+id 668
+max 3000
+size 590 210 320 210
+num 28 82
+end
+id 669
+max 3000
+size 590 210 320 210
+num 29 80
+end
+id 670
+max 3000
+size 590 210 320 210
+num 30 78
+end
+id 671
+max 3000
+size 590 210 320 210
+num 31 76
+end
+id 672
+max 3000
+size 590 210 320 210
+num 32 74
+end
+id 673
+max 3000
+size 590 210 320 210
+num 33 73
+end
+id 674
+max 3000
+size 590 210 320 210
+num 34 71
+end
+id 675
+max 3000
+size 590 210 320 210
+num 35 69
+end
+id 676
+max 3000
+size 590 210 320 210
+num 36 67
+end
+id 677
+max 3000
+size 590 210 320 210
+num 37 65
+end
+id 678
+max 3000
+size 590 210 320 210
+num 38 63
+end
+id 679
+max 3000
+size 590 210 320 210
+num 39 62
+end
+id 680
+max 3000
+size 590 210 320 210
+num 40 60
+end
+id 681
+max 3000
+size 590 210 320 210
+num 41 58
+end
+id 682
+max 3000
+size 590 210 320 210
+num 42 56
+end
+id 683
+max 3000
+size 590 210 320 210
+num 43 54
+end
+id 684
+max 3000
+size 590 210 320 210
+num 44 52
+end
+id 685
+max 3000
+size 590 210 320 210
+num 45 50
+end
+id 686
+max 3000
+size 590 210 320 210
+num 46 49
+end
+id 687
+max 3000
+size 590 210 320 210
+num 47 47
+end
+id 688
+max 3000
+size 590 210 320 210
+num 48 45
+end
+id 689
+max 3000
+size 590 210 320 210
+num 49 43
+end
+id 690
+max 3000
+size 590 210 320 210
+num 50 41
+end
+id 691
+max 3000
+size 590 210 320 210
+num 51 39
+end
+id 692
+max 3000
+size 590 210 320 210
+num 52 38
+end
+id 693
+max 3000
+size 590 210 320 210
+num 53 36
+end
+id 694
+max 3000
+size 590 210 320 210
+num 54 34
+end
+id 695
+max 3000
+size 590 210 320 210
+num 55 32
+end
+id 696
+max 3000
+size 590 210 320 210
+num 56 30
+end
+id 697
+max 3000
+size 590 210 320 210
+num 57 28
+end
+id 698
+max 3000
+size 590 210 320 210
+num 58 26
+end
+id 699
+max 3000
+size 590 210 320 210
+num 59 25
+end
+id 700
+max 3000
+size 590 210 320 210
+num 60 23
+end
+id 701
+max 3000
+size 590 210 320 210
+num 61 21
+end
+id 702
+max 3000
+size 590 210 320 210
+num 62 19
+end
+id 703
+max 3000
+size 590 210 320 210
+num 63 17
+end
+id 704
+max 3000
+size 590 210 320 210
+num 64 15
+end
+id 705
+max 3000
+size 590 210 320 210
+num 65 14
+end
+id 706
+max 3000
+size 590 210 320 210
+num 66 12
+end
+id 707
+max 3000
+size 590 210 320 210
+num 67 10
+end
+id 708
+max 3000
+size 590 210 320 210
+num 68 8
+end
+id 709
+max 3000
+size 590 210 320 210
+num 69 6
+end
+id 710
+max 3000
+size 590 210 320 210
+num 70 4
+end
+id 711
+max 3000
+size 590 210 320 210
+num 71 3
+end
+id 712
+max 3000
+size 590 210 320 210
+num 72 1
+end
+id 713
+max 2500
+size 590 210 320 210
+num 0 93
+end
+id 714
+max 2500
+size 590 210 320 210
+num 1 91
+end
+id 715
+max 2500
+size 590 210 320 210
+num 2 89
+end
+id 716
+max 2500
+size 590 210 320 210
+num 3 87
+end
+id 717
+max 2500
+size 590 210 320 210
+num 4 85
+end
+id 718
+max 2500
+size 590 210 320 210
+num 5 83
+end
+id 719
+max 2500
+size 590 210 320 210
+num 6 81
+end
+id 720
+max 2500
+size 590 210 320 210
+num 7 80
+end
+id 721
+max 2500
+size 590 210 320 210
+num 8 78
+end
+id 722
+max 2500
+size 590 210 320 210
+num 9 76
+end
+id 723
+max 2500
+size 590 210 320 210
+num 10 74
+end
+id 724
+max 2500
+size 590 210 320 210
+num 11 72
+end
+id 725
+max 2500
+size 590 210 320 210
+num 12 70
+end
+id 726
+max 2500
+size 590 210 320 210
+num 13 69
+end
+id 727
+max 2500
+size 590 210 320 210
+num 14 67
+end
+id 728
+max 2500
+size 590 210 320 210
+num 15 65
+end
+id 729
+max 2500
+size 590 210 320 210
+num 16 63
+end
+id 730
+max 2500
+size 590 210 320 210
+num 17 61
+end
+id 731
+max 2500
+size 590 210 320 210
+num 18 59
+end
+id 732
+max 2500
+size 590 210 320 210
+num 19 57
+end
+id 733
+max 2500
+size 590 210 320 210
+num 20 56
+end
+id 734
+max 2500
+size 590 210 320 210
+num 21 54
+end
+id 735
+max 2500
+size 590 210 320 210
+num 22 52
+end
+id 736
+max 2500
+size 590 210 320 210
+num 23 50
+end
+id 737
+max 2500
+size 590 210 320 210
+num 24 48
+end
+id 738
+max 2500
+size 590 210 320 210
+num 25 46
+end
+id 739
+max 2500
+size 590 210 320 210
+num 26 45
+end
+id 740
+max 2500
+size 590 210 320 210
+num 27 43
+end
+id 741
+max 2500
+size 590 210 320 210
+num 28 41
+end
+id 742
+max 2500
+size 590 210 320 210
+num 29 39
+end
+id 743
+max 2500
+size 590 210 320 210
+num 30 37
+end
+id 744
+max 2500
+size 590 210 320 210
+num 31 35
+end
+id 745
+max 2500
+size 590 210 320 210
+num 32 34
+end
+id 746
+max 2500
+size 590 210 320 210
+num 33 32
+end
+id 747
+max 2500
+size 590 210 320 210
+num 34 30
+end
+id 748
+max 2500
+size 590 210 320 210
+num 35 28
+end
+id 749
+max 2500
+size 590 210 320 210
+num 36 26
+end
+id 750
+max 2500
+size 590 210 320 210
+num 37 24
+end
+id 751
+max 2500
+size 590 210 320 210
+num 38 22
+end
+id 752
+max 2500
+size 590 210 320 210
+num 39 21
+end
+id 753
+max 2500
+size 590 210 320 210
+num 40 19
+end
+id 754
+max 2500
+size 590 210 320 210
+num 41 17
+end
+id 755
+max 2500
+size 590 210 320 210
+num 42 15
+end
+id 756
+max 2500
+size 590 210 320 210
+num 43 13
+end
+id 757
+max 2500
+size 590 210 320 210
+num 44 11
+end
+id 758
+max 2500
+size 590 210 320 210
+num 45 10
+end
+id 759
+max 2500
+size 590 210 320 210
+num 46 8
+end
+id 760
+max 2500
+size 590 210 320 210
+num 47 6
+end
+id 761
+max 2500
+size 590 210 320 210
+num 48 4
+end
+id 762
+max 2500
+size 590 210 320 210
+num 49 2
+end
+id 763
+max 2500
+size 590 210 320 210
+num 50 0
+end
+id 764
+max 2000
+size 590 210 320 210
+num 0 59
+end
+id 765
+max 2000
+size 590 210 320 210
+num 1 57
+end
+id 766
+max 2000
+size 590 210 320 210
+num 2 55
+end
+id 767
+max 2000
+size 590 210 320 210
+num 3 53
+end
+id 768
+max 2000
+size 590 210 320 210
+num 4 52
+end
+id 769
+max 2000
+size 590 210 320 210
+num 5 50
+end
+id 770
+max 2000
+size 590 210 320 210
+num 6 48
+end
+id 771
+max 2000
+size 590 210 320 210
+num 7 46
+end
+id 772
+max 2000
+size 590 210 320 210
+num 8 44
+end
+id 773
+max 2000
+size 590 210 320 210
+num 9 42
+end
+id 774
+max 2000
+size 590 210 320 210
+num 10 41
+end
+id 775
+max 2000
+size 590 210 320 210
+num 11 39
+end
+id 776
+max 2000
+size 590 210 320 210
+num 12 37
+end
+id 777
+max 2000
+size 590 210 320 210
+num 13 35
+end
+id 778
+max 2000
+size 590 210 320 210
+num 14 33
+end
+id 779
+max 2000
+size 590 210 320 210
+num 15 31
+end
+id 780
+max 2000
+size 590 210 320 210
+num 16 30
+end
+id 781
+max 2000
+size 590 210 320 210
+num 17 28
+end
+id 782
+max 2000
+size 590 210 320 210
+num 18 26
+end
+id 783
+max 2000
+size 590 210 320 210
+num 19 24
+end
+id 784
+max 2000
+size 590 210 320 210
+num 20 22
+end
+id 785
+max 2000
+size 590 210 320 210
+num 21 20
+end
+id 786
+max 2000
+size 590 210 320 210
+num 22 18
+end
+id 787
+max 2000
+size 590 210 320 210
+num 23 17
+end
+id 788
+max 2000
+size 590 210 320 210
+num 24 15
+end
+id 789
+max 2000
+size 590 210 320 210
+num 25 13
+end
+id 790
+max 2000
+size 590 210 320 210
+num 26 11
+end
+id 791
+max 2000
+size 590 210 320 210
+num 27 9
+end
+id 792
+max 2000
+size 590 210 320 210
+num 28 7
+end
+id 793
+max 2000
+size 590 210 320 210
+num 29 6
+end
+id 794
+max 2000
+size 590 210 320 210
+num 30 4
+end
+id 795
+max 2000
+size 590 210 320 210
+num 31 2
+end
+id 796
+max 2000
+size 590 210 320 210
+num 32 0
+end
+id 797
+max 1500
+size 590 210 320 210
+num 0 33
+end
+id 798
+max 1500
+size 590 210 320 210
+num 1 31
+end
+id 799
+max 1500
+size 590 210 320 210
+num 2 29
+end
+id 800
+max 1500
+size 590 210 320 210
+num 3 27
+end
+id 801
+max 1500
+size 590 210 320 210
+num 4 26
+end
+id 802
+max 1500
+size 590 210 320 210
+num 5 24
+end
+id 803
+max 1500
+size 590 210 320 210
+num 6 22
+end
+id 804
+max 1500
+size 590 210 320 210
+num 7 20
+end
+id 805
+max 1500
+size 590 210 320 210
+num 8 18
+end
+id 806
+max 1500
+size 590 210 320 210
+num 9 16
+end
+id 807
+max 1500
+size 590 210 320 210
+num 10 15
+end
+id 808
+max 1500
+size 590 210 320 210
+num 11 13
+end
+id 809
+max 1500
+size 590 210 320 210
+num 12 11
+end
+id 810
+max 1500
+size 590 210 320 210
+num 13 9
+end
+id 811
+max 1500
+size 590 210 320 210
+num 14 7
+end
+id 812
+max 1500
+size 590 210 320 210
+num 15 5
+end
+id 813
+max 1500
+size 590 210 320 210
+num 16 3
+end
+id 814
+max 1500
+size 590 210 320 210
+num 17 2
+end
+id 815
+max 1500
+size 590 210 320 210
+num 18 0
+end
+id 816
+max 3000
+size 510 190 280 190
+num 0 169
+end
+id 817
+max 3000
+size 510 190 280 190
+num 1 167
+end
+id 818
+max 3000
+size 510 190 280 190
+num 2 165
+end
+id 819
+max 3000
+size 510 190 280 190
+num 3 163
+end
+id 820
+max 3000
+size 510 190 280 190
+num 4 161
+end
+id 821
+max 3000
+size 510 190 280 190
+num 5 160
+end
+id 822
+max 3000
+size 510 190 280 190
+num 6 158
+end
+id 823
+max 3000
+size 510 190 280 190
+num 7 156
+end
+id 824
+max 3000
+size 510 190 280 190
+num 8 154
+end
+id 825
+max 3000
+size 510 190 280 190
+num 9 152
+end
+id 826
+max 3000
+size 510 190 280 190
+num 10 150
+end
+id 827
+max 3000
+size 510 190 280 190
+num 11 149
+end
+id 828
+max 3000
+size 510 190 280 190
+num 12 147
+end
+id 829
+max 3000
+size 510 190 280 190
+num 13 145
+end
+id 830
+max 3000
+size 510 190 280 190
+num 14 143
+end
+id 831
+max 3000
+size 510 190 280 190
+num 15 141
+end
+id 832
+max 3000
+size 510 190 280 190
+num 16 140
+end
+id 833
+max 3000
+size 510 190 280 190
+num 17 138
+end
+id 834
+max 3000
+size 510 190 280 190
+num 18 136
+end
+id 835
+max 3000
+size 510 190 280 190
+num 19 134
+end
+id 836
+max 3000
+size 510 190 280 190
+num 20 132
+end
+id 837
+max 3000
+size 510 190 280 190
+num 21 130
+end
+id 838
+max 3000
+size 510 190 280 190
+num 22 129
+end
+id 839
+max 3000
+size 510 190 280 190
+num 23 127
+end
+id 840
+max 3000
+size 510 190 280 190
+num 24 125
+end
+id 841
+max 3000
+size 510 190 280 190
+num 25 123
+end
+id 842
+max 3000
+size 510 190 280 190
+num 26 121
+end
+id 843
+max 3000
+size 510 190 280 190
+num 27 119
+end
+id 844
+max 3000
+size 510 190 280 190
+num 28 118
+end
+id 845
+max 3000
+size 510 190 280 190
+num 29 116
+end
+id 846
+max 3000
+size 510 190 280 190
+num 30 114
+end
+id 847
+max 3000
+size 510 190 280 190
+num 31 112
+end
+id 848
+max 3000
+size 510 190 280 190
+num 32 110
+end
+id 849
+max 3000
+size 510 190 280 190
+num 33 109
+end
+id 850
+max 3000
+size 510 190 280 190
+num 34 107
+end
+id 851
+max 3000
+size 510 190 280 190
+num 35 105
+end
+id 852
+max 3000
+size 510 190 280 190
+num 36 103
+end
+id 853
+max 3000
+size 510 190 280 190
+num 37 101
+end
+id 854
+max 3000
+size 510 190 280 190
+num 38 99
+end
+id 855
+max 3000
+size 510 190 280 190
+num 39 98
+end
+id 856
+max 3000
+size 510 190 280 190
+num 40 96
+end
+id 857
+max 3000
+size 510 190 280 190
+num 41 94
+end
+id 858
+max 3000
+size 510 190 280 190
+num 42 92
+end
+id 859
+max 3000
+size 510 190 280 190
+num 43 90
+end
+id 860
+max 3000
+size 510 190 280 190
+num 44 89
+end
+id 861
+max 3000
+size 510 190 280 190
+num 45 87
+end
+id 862
+max 3000
+size 510 190 280 190
+num 46 85
+end
+id 863
+max 3000
+size 510 190 280 190
+num 47 83
+end
+id 864
+max 3000
+size 510 190 280 190
+num 48 81
+end
+id 865
+max 3000
+size 510 190 280 190
+num 49 79
+end
+id 866
+max 3000
+size 510 190 280 190
+num 50 78
+end
+id 867
+max 3000
+size 510 190 280 190
+num 51 76
+end
+id 868
+max 3000
+size 510 190 280 190
+num 52 74
+end
+id 869
+max 3000
+size 510 190 280 190
+num 53 72
+end
+id 870
+max 3000
+size 510 190 280 190
+num 54 70
+end
+id 871
+max 3000
+size 510 190 280 190
+num 55 68
+end
+id 872
+max 3000
+size 510 190 280 190
+num 56 67
+end
+id 873
+max 3000
+size 510 190 280 190
+num 57 65
+end
+id 874
+max 3000
+size 510 190 280 190
+num 58 63
+end
+id 875
+max 3000
+size 510 190 280 190
+num 59 61
+end
+id 876
+max 3000
+size 510 190 280 190
+num 60 59
+end
+id 877
+max 3000
+size 510 190 280 190
+num 61 58
+end
+id 878
+max 3000
+size 510 190 280 190
+num 62 56
+end
+id 879
+max 3000
+size 510 190 280 190
+num 63 54
+end
+id 880
+max 3000
+size 510 190 280 190
+num 64 52
+end
+id 881
+max 3000
+size 510 190 280 190
+num 65 50
+end
+id 882
+max 3000
+size 510 190 280 190
+num 66 48
+end
+id 883
+max 3000
+size 510 190 280 190
+num 67 47
+end
+id 884
+max 3000
+size 510 190 280 190
+num 68 45
+end
+id 885
+max 3000
+size 510 190 280 190
+num 69 43
+end
+id 886
+max 3000
+size 510 190 280 190
+num 70 41
+end
+id 887
+max 3000
+size 510 190 280 190
+num 71 39
+end
+id 888
+max 3000
+size 510 190 280 190
+num 72 38
+end
+id 889
+max 3000
+size 510 190 280 190
+num 73 36
+end
+id 890
+max 3000
+size 510 190 280 190
+num 74 34
+end
+id 891
+max 3000
+size 510 190 280 190
+num 75 32
+end
+id 892
+max 3000
+size 510 190 280 190
+num 76 30
+end
+id 893
+max 3000
+size 510 190 280 190
+num 77 28
+end
+id 894
+max 3000
+size 510 190 280 190
+num 78 27
+end
+id 895
+max 3000
+size 510 190 280 190
+num 79 25
+end
+id 896
+max 3000
+size 510 190 280 190
+num 80 23
+end
+id 897
+max 3000
+size 510 190 280 190
+num 81 21
+end
+id 898
+max 3000
+size 510 190 280 190
+num 82 19
+end
+id 899
+max 3000
+size 510 190 280 190
+num 83 17
+end
+id 900
+max 3000
+size 510 190 280 190
+num 84 16
+end
+id 901
+max 3000
+size 510 190 280 190
+num 85 14
+end
+id 902
+max 3000
+size 510 190 280 190
+num 86 12
+end
+id 903
+max 3000
+size 510 190 280 190
+num 87 10
+end
+id 904
+max 3000
+size 510 190 280 190
+num 88 8
+end
+id 905
+max 3000
+size 510 190 280 190
+num 89 7
+end
+id 906
+max 3000
+size 510 190 280 190
+num 90 5
+end
+id 907
+max 3000
+size 510 190 280 190
+num 91 3
+end
+id 908
+max 3000
+size 510 190 280 190
+num 92 1
+end
+id 909
+max 2500
+size 510 190 280 190
+num 0 117
+end
+id 910
+max 2500
+size 510 190 280 190
+num 1 115
+end
+id 911
+max 2500
+size 510 190 280 190
+num 2 113
+end
+id 912
+max 2500
+size 510 190 280 190
+num 3 112
+end
+id 913
+max 2500
+size 510 190 280 190
+num 4 110
+end
+id 914
+max 2500
+size 510 190 280 190
+num 5 108
+end
+id 915
+max 2500
+size 510 190 280 190
+num 6 106
+end
+id 916
+max 2500
+size 510 190 280 190
+num 7 104
+end
+id 917
+max 2500
+size 510 190 280 190
+num 8 102
+end
+id 918
+max 2500
+size 510 190 280 190
+num 9 101
+end
+id 919
+max 2500
+size 510 190 280 190
+num 10 99
+end
+id 920
+max 2500
+size 510 190 280 190
+num 11 97
+end
+id 921
+max 2500
+size 510 190 280 190
+num 12 95
+end
+id 922
+max 2500
+size 510 190 280 190
+num 13 93
+end
+id 923
+max 2500
+size 510 190 280 190
+num 14 91
+end
+id 924
+max 2500
+size 510 190 280 190
+num 15 90
+end
+id 925
+max 2500
+size 510 190 280 190
+num 16 88
+end
+id 926
+max 2500
+size 510 190 280 190
+num 17 86
+end
+id 927
+max 2500
+size 510 190 280 190
+num 18 84
+end
+id 928
+max 2500
+size 510 190 280 190
+num 19 82
+end
+id 929
+max 2500
+size 510 190 280 190
+num 20 81
+end
+id 930
+max 2500
+size 510 190 280 190
+num 21 79
+end
+id 931
+max 2500
+size 510 190 280 190
+num 22 77
+end
+id 932
+max 2500
+size 510 190 280 190
+num 23 75
+end
+id 933
+max 2500
+size 510 190 280 190
+num 24 73
+end
+id 934
+max 2500
+size 510 190 280 190
+num 25 71
+end
+id 935
+max 2500
+size 510 190 280 190
+num 26 70
+end
+id 936
+max 2500
+size 510 190 280 190
+num 27 68
+end
+id 937
+max 2500
+size 510 190 280 190
+num 28 66
+end
+id 938
+max 2500
+size 510 190 280 190
+num 29 64
+end
+id 939
+max 2500
+size 510 190 280 190
+num 30 62
+end
+id 940
+max 2500
+size 510 190 280 190
+num 31 61
+end
+id 941
+max 2500
+size 510 190 280 190
+num 32 59
+end
+id 942
+max 2500
+size 510 190 280 190
+num 33 57
+end
+id 943
+max 2500
+size 510 190 280 190
+num 34 55
+end
+id 944
+max 2500
+size 510 190 280 190
+num 35 53
+end
+id 945
+max 2500
+size 510 190 280 190
+num 36 51
+end
+id 946
+max 2500
+size 510 190 280 190
+num 37 50
+end
+id 947
+max 2500
+size 510 190 280 190
+num 38 48
+end
+id 948
+max 2500
+size 510 190 280 190
+num 39 46
+end
+id 949
+max 2500
+size 510 190 280 190
+num 40 44
+end
+id 950
+max 2500
+size 510 190 280 190
+num 41 42
+end
+id 951
+max 2500
+size 510 190 280 190
+num 42 40
+end
+id 952
+max 2500
+size 510 190 280 190
+num 43 39
+end
+id 953
+max 2500
+size 510 190 280 190
+num 44 37
+end
+id 954
+max 2500
+size 510 190 280 190
+num 45 35
+end
+id 955
+max 2500
+size 510 190 280 190
+num 46 33
+end
+id 956
+max 2500
+size 510 190 280 190
+num 47 31
+end
+id 957
+max 2500
+size 510 190 280 190
+num 48 30
+end
+id 958
+max 2500
+size 510 190 280 190
+num 49 28
+end
+id 959
+max 2500
+size 510 190 280 190
+num 50 26
+end
+id 960
+max 2500
+size 510 190 280 190
+num 51 24
+end
+id 961
+max 2500
+size 510 190 280 190
+num 52 22
+end
+id 962
+max 2500
+size 510 190 280 190
+num 53 20
+end
+id 963
+max 2500
+size 510 190 280 190
+num 54 19
+end
+id 964
+max 2500
+size 510 190 280 190
+num 55 17
+end
+id 965
+max 2500
+size 510 190 280 190
+num 56 15
+end
+id 966
+max 2500
+size 510 190 280 190
+num 57 13
+end
+id 967
+max 2500
+size 510 190 280 190
+num 58 11
+end
+id 968
+max 2500
+size 510 190 280 190
+num 59 10
+end
+id 969
+max 2500
+size 510 190 280 190
+num 60 8
+end
+id 970
+max 2500
+size 510 190 280 190
+num 61 6
+end
+id 971
+max 2500
+size 510 190 280 190
+num 62 4
+end
+id 972
+max 2500
+size 510 190 280 190
+num 63 2
+end
+id 973
+max 2500
+size 510 190 280 190
+num 64 0
+end
+id 974
+max 2000
+size 510 190 280 190
+num 0 75
+end
+id 975
+max 2000
+size 510 190 280 190
+num 1 73
+end
+id 976
+max 2000
+size 510 190 280 190
+num 2 71
+end
+id 977
+max 2000
+size 510 190 280 190
+num 3 69
+end
+id 978
+max 2000
+size 510 190 280 190
+num 4 67
+end
+id 979
+max 2000
+size 510 190 280 190
+num 5 66
+end
+id 980
+max 2000
+size 510 190 280 190
+num 6 64
+end
+id 981
+max 2000
+size 510 190 280 190
+num 7 62
+end
+id 982
+max 2000
+size 510 190 280 190
+num 8 60
+end
+id 983
+max 2000
+size 510 190 280 190
+num 9 58
+end
+id 984
+max 2000
+size 510 190 280 190
+num 10 56
+end
+id 985
+max 2000
+size 510 190 280 190
+num 11 55
+end
+id 986
+max 2000
+size 510 190 280 190
+num 12 53
+end
+id 987
+max 2000
+size 510 190 280 190
+num 13 51
+end
+id 988
+max 2000
+size 510 190 280 190
+num 14 49
+end
+id 989
+max 2000
+size 510 190 280 190
+num 15 47
+end
+id 990
+max 2000
+size 510 190 280 190
+num 16 46
+end
+id 991
+max 2000
+size 510 190 280 190
+num 17 44
+end
+id 992
+max 2000
+size 510 190 280 190
+num 18 42
+end
+id 993
+max 2000
+size 510 190 280 190
+num 19 40
+end
+id 994
+max 2000
+size 510 190 280 190
+num 20 38
+end
+id 995
+max 2000
+size 510 190 280 190
+num 21 36
+end
+id 996
+max 2000
+size 510 190 280 190
+num 22 35
+end
+id 997
+max 2000
+size 510 190 280 190
+num 23 33
+end
+id 998
+max 2000
+size 510 190 280 190
+num 24 31
+end
+id 999
+max 2000
+size 510 190 280 190
+num 25 29
+end
+id 1000
+max 2000
+size 510 190 280 190
+num 26 27
+end
+id 1001
+max 2000
+size 510 190 280 190
+num 27 26
+end
+id 1002
+max 2000
+size 510 190 280 190
+num 28 24
+end
+id 1003
+max 2000
+size 510 190 280 190
+num 29 22
+end
+id 1004
+max 2000
+size 510 190 280 190
+num 30 20
+end
+id 1005
+max 2000
+size 510 190 280 190
+num 31 18
+end
+id 1006
+max 2000
+size 510 190 280 190
+num 32 16
+end
+id 1007
+max 2000
+size 510 190 280 190
+num 33 15
+end
+id 1008
+max 2000
+size 510 190 280 190
+num 34 13
+end
+id 1009
+max 2000
+size 510 190 280 190
+num 35 11
+end
+id 1010
+max 2000
+size 510 190 280 190
+num 36 9
+end
+id 1011
+max 2000
+size 510 190 280 190
+num 37 7
+end
+id 1012
+max 2000
+size 510 190 280 190
+num 38 5
+end
+id 1013
+max 2000
+size 510 190 280 190
+num 39 4
+end
+id 1014
+max 2000
+size 510 190 280 190
+num 40 2
+end
+id 1015
+max 2000
+size 510 190 280 190
+num 41 0
+end
+id 1016
+max 1500
+size 510 190 280 190
+num 0 42
+end
+id 1017
+max 1500
+size 510 190 280 190
+num 1 40
+end
+id 1018
+max 1500
+size 510 190 280 190
+num 2 38
+end
+id 1019
+max 1500
+size 510 190 280 190
+num 3 36
+end
+id 1020
+max 1500
+size 510 190 280 190
+num 4 35
+end
+id 1021
+max 1500
+size 510 190 280 190
+num 5 33
+end
+id 1022
+max 1500
+size 510 190 280 190
+num 6 31
+end
+id 1023
+max 1500
+size 510 190 280 190
+num 7 29
+end
+id 1024
+max 1500
+size 510 190 280 190
+num 8 27
+end
+id 1025
+max 1500
+size 510 190 280 190
+num 9 25
+end
+id 1026
+max 1500
+size 510 190 280 190
+num 10 24
+end
+id 1027
+max 1500
+size 510 190 280 190
+num 11 22
+end
+id 1028
+max 1500
+size 510 190 280 190
+num 12 20
+end
+id 1029
+max 1500
+size 510 190 280 190
+num 13 18
+end
+id 1030
+max 1500
+size 510 190 280 190
+num 14 16
+end
+id 1031
+max 1500
+size 510 190 280 190
+num 15 14
+end
+id 1032
+max 1500
+size 510 190 280 190
+num 16 13
+end
+id 1033
+max 1500
+size 510 190 280 190
+num 17 11
+end
+id 1034
+max 1500
+size 510 190 280 190
+num 18 9
+end
+id 1035
+max 1500
+size 510 190 280 190
+num 19 7
+end
+id 1036
+max 1500
+size 510 190 280 190
+num 20 5
+end
+id 1037
+max 1500
+size 510 190 280 190
+num 21 4
+end
+id 1038
+max 1500
+size 510 190 280 190
+num 22 2
+end
+id 1039
+max 1500
+size 510 190 280 190
+num 23 0
+end
+id 1040
+max 3000
+size 470 170 260 170
+num 0 168
+end
+id 1041
+max 3000
+size 470 170 260 170
+num 1 166
+end
+id 1042
+max 3000
+size 470 170 260 170
+num 2 164
+end
+id 1043
+max 3000
+size 470 170 260 170
+num 3 162
+end
+id 1044
+max 3000
+size 470 170 260 170
+num 4 160
+end
+id 1045
+max 3000
+size 470 170 260 170
+num 5 158
+end
+id 1046
+max 3000
+size 470 170 260 170
+num 6 156
+end
+id 1047
+max 3000
+size 470 170 260 170
+num 7 154
+end
+id 1048
+max 3000
+size 470 170 260 170
+num 8 152
+end
+id 1049
+max 3000
+size 470 170 260 170
+num 9 150
+end
+id 1050
+max 3000
+size 470 170 260 170
+num 10 148
+end
+id 1051
+max 3000
+size 470 170 260 170
+num 11 146
+end
+id 1052
+max 3000
+size 470 170 260 170
+num 12 144
+end
+id 1053
+max 3000
+size 470 170 260 170
+num 13 142
+end
+id 1054
+max 3000
+size 470 170 260 170
+num 14 140
+end
+id 1055
+max 3000
+size 470 170 260 170
+num 15 138
+end
+id 1056
+max 3000
+size 470 170 260 170
+num 16 136
+end
+id 1057
+max 3000
+size 470 170 260 170
+num 17 134
+end
+id 1058
+max 3000
+size 470 170 260 170
+num 18 132
+end
+id 1059
+max 3000
+size 470 170 260 170
+num 19 130
+end
+id 1060
+max 3000
+size 470 170 260 170
+num 20 128
+end
+id 1061
+max 3000
+size 470 170 260 170
+num 21 126
+end
+id 1062
+max 3000
+size 470 170 260 170
+num 22 124
+end
+id 1063
+max 3000
+size 470 170 260 170
+num 23 122
+end
+id 1064
+max 3000
+size 470 170 260 170
+num 24 120
+end
+id 1065
+max 3000
+size 470 170 260 170
+num 25 118
+end
+id 1066
+max 3000
+size 470 170 260 170
+num 26 116
+end
+id 1067
+max 3000
+size 470 170 260 170
+num 27 114
+end
+id 1068
+max 3000
+size 470 170 260 170
+num 28 112
+end
+id 1069
+max 3000
+size 470 170 260 170
+num 29 110
+end
+id 1070
+max 3000
+size 470 170 260 170
+num 30 108
+end
+id 1071
+max 3000
+size 470 170 260 170
+num 31 106
+end
+id 1072
+max 3000
+size 470 170 260 170
+num 32 104
+end
+id 1073
+max 3000
+size 470 170 260 170
+num 33 102
+end
+id 1074
+max 3000
+size 470 170 260 170
+num 34 100
+end
+id 1075
+max 3000
+size 470 170 260 170
+num 35 98
+end
+id 1076
+max 3000
+size 470 170 260 170
+num 36 96
+end
+id 1077
+max 3000
+size 470 170 260 170
+num 37 94
+end
+id 1078
+max 3000
+size 470 170 260 170
+num 38 92
+end
+id 1079
+max 3000
+size 470 170 260 170
+num 39 90
+end
+id 1080
+max 3000
+size 470 170 260 170
+num 40 88
+end
+id 1081
+max 3000
+size 470 170 260 170
+num 41 86
+end
+id 1082
+max 3000
+size 470 170 260 170
+num 42 84
+end
+id 1083
+max 3000
+size 470 170 260 170
+num 43 82
+end
+id 1084
+max 3000
+size 470 170 260 170
+num 44 80
+end
+id 1085
+max 3000
+size 470 170 260 170
+num 45 78
+end
+id 1086
+max 3000
+size 470 170 260 170
+num 46 76
+end
+id 1087
+max 3000
+size 470 170 260 170
+num 47 74
+end
+id 1088
+max 3000
+size 470 170 260 170
+num 48 72
+end
+id 1089
+max 3000
+size 470 170 260 170
+num 49 70
+end
+id 1090
+max 3000
+size 470 170 260 170
+num 50 68
+end
+id 1091
+max 3000
+size 470 170 260 170
+num 51 66
+end
+id 1092
+max 3000
+size 470 170 260 170
+num 52 64
+end
+id 1093
+max 3000
+size 470 170 260 170
+num 53 62
+end
+id 1094
+max 3000
+size 470 170 260 170
+num 54 60
+end
+id 1095
+max 3000
+size 470 170 260 170
+num 55 58
+end
+id 1096
+max 3000
+size 470 170 260 170
+num 56 56
+end
+id 1097
+max 3000
+size 470 170 260 170
+num 57 54
+end
+id 1098
+max 3000
+size 470 170 260 170
+num 58 52
+end
+id 1099
+max 3000
+size 470 170 260 170
+num 59 50
+end
+id 1100
+max 3000
+size 470 170 260 170
+num 60 48
+end
+id 1101
+max 3000
+size 470 170 260 170
+num 61 46
+end
+id 1102
+max 3000
+size 470 170 260 170
+num 62 44
+end
+id 1103
+max 3000
+size 470 170 260 170
+num 63 42
+end
+id 1104
+max 3000
+size 470 170 260 170
+num 64 40
+end
+id 1105
+max 3000
+size 470 170 260 170
+num 65 38
+end
+id 1106
+max 3000
+size 470 170 260 170
+num 66 36
+end
+id 1107
+max 3000
+size 470 170 260 170
+num 67 34
+end
+id 1108
+max 3000
+size 470 170 260 170
+num 68 32
+end
+id 1109
+max 3000
+size 470 170 260 170
+num 69 30
+end
+id 1110
+max 3000
+size 470 170 260 170
+num 70 28
+end
+id 1111
+max 3000
+size 470 170 260 170
+num 71 26
+end
+id 1112
+max 3000
+size 470 170 260 170
+num 72 24
+end
+id 1113
+max 3000
+size 470 170 260 170
+num 73 22
+end
+id 1114
+max 3000
+size 470 170 260 170
+num 74 20
+end
+id 1115
+max 3000
+size 470 170 260 170
+num 75 18
+end
+id 1116
+max 3000
+size 470 170 260 170
+num 76 16
+end
+id 1117
+max 3000
+size 470 170 260 170
+num 77 14
+end
+id 1118
+max 3000
+size 470 170 260 170
+num 78 12
+end
+id 1119
+max 3000
+size 470 170 260 170
+num 79 10
+end
+id 1120
+max 3000
+size 470 170 260 170
+num 80 8
+end
+id 1121
+max 3000
+size 470 170 260 170
+num 81 6
+end
+id 1122
+max 3000
+size 470 170 260 170
+num 82 4
+end
+id 1123
+max 3000
+size 470 170 260 170
+num 83 2
+end
+id 1124
+max 3000
+size 470 170 260 170
+num 84 0
+end
+id 1125
+max 3000
+size 470 170 260 170
+num 85 -2
+end
+id 1126
+max 3000
+size 470 170 260 170
+num 86 -4
+end
+id 1127
+max 3000
+size 470 170 260 170
+num 87 -6
+end
+id 1128
+max 3000
+size 470 170 260 170
+num 88 -8
+end
+id 1129
+max 3000
+size 470 170 260 170
+num 89 -10
+end
+id 1130
+max 3000
+size 470 170 260 170
+num 90 -12
+end
+id 1131
+max 3000
+size 470 170 260 170
+num 91 -14
+end
+id 1132
+max 3000
+size 470 170 260 170
+num 92 -16
+end
+id 1133
+max 3000
+size 470 170 260 170
+num 93 -18
+end
+id 1134
+max 3000
+size 470 170 260 170
+num 94 -20
+end
+id 1135
+max 3000
+size 470 170 260 170
+num 95 -22
+end
+id 1136
+max 3000
+size 470 170 260 170
+num 96 -24
+end
+id 1137
+max 3000
+size 470 170 260 170
+num 97 -26
+end
+id 1138
+max 3000
+size 470 170 260 170
+num 98 -28
+end
+id 1139
+max 3000
+size 470 170 260 170
+num 99 -30
+end
+id 1140
+max 3000
+size 470 170 260 170
+num 100 -32
+end
+id 1141
+max 3000
+size 470 170 260 170
+num 101 -34
+end
+id 1142
+max 3000
+size 470 170 260 170
+num 102 -36
+end
+id 1143
+max 3000
+size 470 170 260 170
+num 103 -38
+end
+id 1144
+max 3000
+size 470 170 260 170
+num 104 -40
+end
+id 1145
+max 3000
+size 470 170 260 170
+num 105 -42
+end
+id 1146
+max 3000
+size 470 170 260 170
+num 106 -44
+end
+id 1147
+max 3000
+size 470 170 260 170
+num 107 -46
+end
+id 1148
+max 3000
+size 470 170 260 170
+num 108 -48
+end
+id 1149
+max 3000
+size 470 170 260 170
+num 109 -50
+end
+id 1150
+max 3000
+size 470 170 260 170
+num 110 -52
+end
+id 1151
+max 3000
+size 470 170 260 170
+num 111 -54
+end
+id 1152
+max 3000
+size 470 170 260 170
+num 112 -56
+end
+id 1153
+max 2500
+size 470 170 260 170
+num 0 141
+end
+id 1154
+max 2500
+size 470 170 260 170
+num 1 139
+end
+id 1155
+max 2500
+size 470 170 260 170
+num 2 137
+end
+id 1156
+max 2500
+size 470 170 260 170
+num 3 135
+end
+id 1157
+max 2500
+size 470 170 260 170
+num 4 134
+end
+id 1158
+max 2500
+size 470 170 260 170
+num 5 132
+end
+id 1159
+max 2500
+size 470 170 260 170
+num 6 130
+end
+id 1160
+max 2500
+size 470 170 260 170
+num 7 128
+end
+id 1161
+max 2500
+size 470 170 260 170
+num 8 126
+end
+id 1162
+max 2500
+size 470 170 260 170
+num 9 125
+end
+id 1163
+max 2500
+size 470 170 260 170
+num 10 123
+end
+id 1164
+max 2500
+size 470 170 260 170
+num 11 121
+end
+id 1165
+max 2500
+size 470 170 260 170
+num 12 119
+end
+id 1166
+max 2500
+size 470 170 260 170
+num 13 117
+end
+id 1167
+max 2500
+size 470 170 260 170
+num 14 116
+end
+id 1168
+max 2500
+size 470 170 260 170
+num 15 114
+end
+id 1169
+max 2500
+size 470 170 260 170
+num 16 112
+end
+id 1170
+max 2500
+size 470 170 260 170
+num 17 110
+end
+id 1171
+max 2500
+size 470 170 260 170
+num 18 108
+end
+id 1172
+max 2500
+size 470 170 260 170
+num 19 107
+end
+id 1173
+max 2500
+size 470 170 260 170
+num 20 105
+end
+id 1174
+max 2500
+size 470 170 260 170
+num 21 103
+end
+id 1175
+max 2500
+size 470 170 260 170
+num 22 101
+end
+id 1176
+max 2500
+size 470 170 260 170
+num 23 99
+end
+id 1177
+max 2500
+size 470 170 260 170
+num 24 98
+end
+id 1178
+max 2500
+size 470 170 260 170
+num 25 96
+end
+id 1179
+max 2500
+size 470 170 260 170
+num 26 94
+end
+id 1180
+max 2500
+size 470 170 260 170
+num 27 92
+end
+id 1181
+max 2500
+size 470 170 260 170
+num 28 90
+end
+id 1182
+max 2500
+size 470 170 260 170
+num 29 88
+end
+id 1183
+max 2500
+size 470 170 260 170
+num 30 87
+end
+id 1184
+max 2500
+size 470 170 260 170
+num 31 85
+end
+id 1185
+max 2500
+size 470 170 260 170
+num 32 83
+end
+id 1186
+max 2500
+size 470 170 260 170
+num 33 81
+end
+id 1187
+max 2500
+size 470 170 260 170
+num 34 79
+end
+id 1188
+max 2500
+size 470 170 260 170
+num 35 78
+end
+id 1189
+max 2500
+size 470 170 260 170
+num 36 76
+end
+id 1190
+max 2500
+size 470 170 260 170
+num 37 74
+end
+id 1191
+max 2500
+size 470 170 260 170
+num 38 72
+end
+id 1192
+max 2500
+size 470 170 260 170
+num 39 70
+end
+id 1193
+max 2500
+size 470 170 260 170
+num 40 69
+end
+id 1194
+max 2500
+size 470 170 260 170
+num 41 67
+end
+id 1195
+max 2500
+size 470 170 260 170
+num 42 65
+end
+id 1196
+max 2500
+size 470 170 260 170
+num 43 63
+end
+id 1197
+max 2500
+size 470 170 260 170
+num 44 61
+end
+id 1198
+max 2500
+size 470 170 260 170
+num 45 60
+end
+id 1199
+max 2500
+size 470 170 260 170
+num 46 58
+end
+id 1200
+max 2500
+size 470 170 260 170
+num 47 56
+end
+id 1201
+max 2500
+size 470 170 260 170
+num 48 54
+end
+id 1202
+max 2500
+size 470 170 260 170
+num 49 52
+end
+id 1203
+max 2500
+size 470 170 260 170
+num 50 51
+end
+id 1204
+max 2500
+size 470 170 260 170
+num 51 49
+end
+id 1205
+max 2500
+size 470 170 260 170
+num 52 47
+end
+id 1206
+max 2500
+size 470 170 260 170
+num 53 45
+end
+id 1207
+max 2500
+size 470 170 260 170
+num 54 43
+end
+id 1208
+max 2500
+size 470 170 260 170
+num 55 41
+end
+id 1209
+max 2500
+size 470 170 260 170
+num 56 40
+end
+id 1210
+max 2500
+size 470 170 260 170
+num 57 38
+end
+id 1211
+max 2500
+size 470 170 260 170
+num 58 36
+end
+id 1212
+max 2500
+size 470 170 260 170
+num 59 34
+end
+id 1213
+max 2500
+size 470 170 260 170
+num 60 32
+end
+id 1214
+max 2500
+size 470 170 260 170
+num 61 31
+end
+id 1215
+max 2500
+size 470 170 260 170
+num 62 29
+end
+id 1216
+max 2500
+size 470 170 260 170
+num 63 27
+end
+id 1217
+max 2500
+size 470 170 260 170
+num 64 25
+end
+id 1218
+max 2500
+size 470 170 260 170
+num 65 23
+end
+id 1219
+max 2500
+size 470 170 260 170
+num 66 22
+end
+id 1220
+max 2500
+size 470 170 260 170
+num 67 20
+end
+id 1221
+max 2500
+size 470 170 260 170
+num 68 18
+end
+id 1222
+max 2500
+size 470 170 260 170
+num 69 16
+end
+id 1223
+max 2500
+size 470 170 260 170
+num 70 14
+end
+id 1224
+max 2500
+size 470 170 260 170
+num 71 13
+end
+id 1225
+max 2500
+size 470 170 260 170
+num 72 11
+end
+id 1226
+max 2500
+size 470 170 260 170
+num 73 9
+end
+id 1227
+max 2500
+size 470 170 260 170
+num 74 7
+end
+id 1228
+max 2500
+size 470 170 260 170
+num 75 5
+end
+id 1229
+max 2500
+size 470 170 260 170
+num 76 4
+end
+id 1230
+max 2500
+size 470 170 260 170
+num 77 2
+end
+id 1231
+max 2500
+size 470 170 260 170
+num 78 0
+end
+id 1232
+max 2000
+size 470 170 260 170
+num 0 90
+end
+id 1233
+max 2000
+size 470 170 260 170
+num 1 88
+end
+id 1234
+max 2000
+size 470 170 260 170
+num 2 86
+end
+id 1235
+max 2000
+size 470 170 260 170
+num 3 85
+end
+id 1236
+max 2000
+size 470 170 260 170
+num 4 83
+end
+id 1237
+max 2000
+size 470 170 260 170
+num 5 81
+end
+id 1238
+max 2000
+size 470 170 260 170
+num 6 79
+end
+id 1239
+max 2000
+size 470 170 260 170
+num 7 77
+end
+id 1240
+max 2000
+size 470 170 260 170
+num 8 76
+end
+id 1241
+max 2000
+size 470 170 260 170
+num 9 74
+end
+id 1242
+max 2000
+size 470 170 260 170
+num 10 72
+end
+id 1243
+max 2000
+size 470 170 260 170
+num 11 70
+end
+id 1244
+max 2000
+size 470 170 260 170
+num 12 68
+end
+id 1245
+max 2000
+size 470 170 260 170
+num 13 66
+end
+id 1246
+max 2000
+size 470 170 260 170
+num 14 65
+end
+id 1247
+max 2000
+size 470 170 260 170
+num 15 63
+end
+id 1248
+max 2000
+size 470 170 260 170
+num 16 61
+end
+id 1249
+max 2000
+size 470 170 260 170
+num 17 59
+end
+id 1250
+max 2000
+size 470 170 260 170
+num 18 57
+end
+id 1251
+max 2000
+size 470 170 260 170
+num 19 56
+end
+id 1252
+max 2000
+size 470 170 260 170
+num 20 54
+end
+id 1253
+max 2000
+size 470 170 260 170
+num 21 52
+end
+id 1254
+max 2000
+size 470 170 260 170
+num 22 50
+end
+id 1255
+max 2000
+size 470 170 260 170
+num 23 48
+end
+id 1256
+max 2000
+size 470 170 260 170
+num 24 47
+end
+id 1257
+max 2000
+size 470 170 260 170
+num 25 45
+end
+id 1258
+max 2000
+size 470 170 260 170
+num 26 43
+end
+id 1259
+max 2000
+size 470 170 260 170
+num 27 41
+end
+id 1260
+max 2000
+size 470 170 260 170
+num 28 39
+end
+id 1261
+max 2000
+size 470 170 260 170
+num 29 38
+end
+id 1262
+max 2000
+size 470 170 260 170
+num 30 36
+end
+id 1263
+max 2000
+size 470 170 260 170
+num 31 34
+end
+id 1264
+max 2000
+size 470 170 260 170
+num 32 32
+end
+id 1265
+max 2000
+size 470 170 260 170
+num 33 30
+end
+id 1266
+max 2000
+size 470 170 260 170
+num 34 29
+end
+id 1267
+max 2000
+size 470 170 260 170
+num 35 27
+end
+id 1268
+max 2000
+size 470 170 260 170
+num 36 25
+end
+id 1269
+max 2000
+size 470 170 260 170
+num 37 23
+end
+id 1270
+max 2000
+size 470 170 260 170
+num 38 21
+end
+id 1271
+max 2000
+size 470 170 260 170
+num 39 19
+end
+id 1272
+max 2000
+size 470 170 260 170
+num 40 18
+end
+id 1273
+max 2000
+size 470 170 260 170
+num 41 16
+end
+id 1274
+max 2000
+size 470 170 260 170
+num 42 14
+end
+id 1275
+max 2000
+size 470 170 260 170
+num 43 12
+end
+id 1276
+max 2000
+size 470 170 260 170
+num 44 10
+end
+id 1277
+max 2000
+size 470 170 260 170
+num 45 9
+end
+id 1278
+max 2000
+size 470 170 260 170
+num 46 7
+end
+id 1279
+max 2000
+size 470 170 260 170
+num 47 5
+end
+id 1280
+max 2000
+size 470 170 260 170
+num 48 3
+end
+id 1281
+max 2000
+size 470 170 260 170
+num 49 1
+end
+id 1282
+max 2000
+size 470 170 260 170
+num 50 0
+end
+id 1283
+max 1500
+size 470 170 260 170
+num 0 50
+end
+id 1284
+max 1500
+size 470 170 260 170
+num 1 49
+end
+id 1285
+max 1500
+size 470 170 260 170
+num 2 47
+end
+id 1286
+max 1500
+size 470 170 260 170
+num 3 45
+end
+id 1287
+max 1500
+size 470 170 260 170
+num 4 43
+end
+id 1288
+max 1500
+size 470 170 260 170
+num 5 41
+end
+id 1289
+max 1500
+size 470 170 260 170
+num 6 40
+end
+id 1290
+max 1500
+size 470 170 260 170
+num 7 38
+end
+id 1291
+max 1500
+size 470 170 260 170
+num 8 36
+end
+id 1292
+max 1500
+size 470 170 260 170
+num 9 34
+end
+id 1293
+max 1500
+size 470 170 260 170
+num 10 32
+end
+id 1294
+max 1500
+size 470 170 260 170
+num 11 31
+end
+id 1295
+max 1500
+size 470 170 260 170
+num 12 29
+end
+id 1296
+max 1500
+size 470 170 260 170
+num 13 27
+end
+id 1297
+max 1500
+size 470 170 260 170
+num 14 25
+end
+id 1298
+max 1500
+size 470 170 260 170
+num 15 23
+end
+id 1299
+max 1500
+size 470 170 260 170
+num 16 21
+end
+id 1300
+max 1500
+size 470 170 260 170
+num 17 20
+end
+id 1301
+max 1500
+size 470 170 260 170
+num 18 18
+end
+id 1302
+max 1500
+size 470 170 260 170
+num 19 16
+end
+id 1303
+max 1500
+size 470 170 260 170
+num 20 14
+end
+id 1304
+max 1500
+size 470 170 260 170
+num 21 12
+end
+id 1305
+max 1500
+size 470 170 260 170
+num 22 11
+end
+id 1306
+max 1500
+size 470 170 260 170
+num 23 9
+end
+id 1307
+max 1500
+size 470 170 260 170
+num 24 7
+end
+id 1308
+max 1500
+size 470 170 260 170
+num 25 5
+end
+id 1309
+max 1500
+size 470 170 260 170
+num 26 3
+end
+id 1310
+max 1500
+size 470 170 260 170
+num 27 2
+end
+id 1311
+max 1500
+size 470 170 260 170
+num 28 0
+end
+id 1312
+max 3000
+size 470 125 260 125
+num 0 128
+end
+id 1313
+max 3000
+size 470 125 260 125
+num 1 126
+end
+id 1314
+max 3000
+size 470 125 260 125
+num 2 124
+end
+id 1315
+max 3000
+size 470 125 260 125
+num 3 122
+end
+id 1316
+max 3000
+size 470 125 260 125
+num 4 120
+end
+id 1317
+max 3000
+size 470 125 260 125
+num 5 118
+end
+id 1318
+max 3000
+size 470 125 260 125
+num 6 116
+end
+id 1319
+max 3000
+size 470 125 260 125
+num 7 114
+end
+id 1320
+max 3000
+size 470 125 260 125
+num 8 112
+end
+id 1321
+max 3000
+size 470 125 260 125
+num 9 110
+end
+id 1322
+max 3000
+size 470 125 260 125
+num 10 108
+end
+id 1323
+max 3000
+size 470 125 260 125
+num 11 106
+end
+id 1324
+max 3000
+size 470 125 260 125
+num 12 104
+end
+id 1325
+max 3000
+size 470 125 260 125
+num 13 102
+end
+id 1326
+max 3000
+size 470 125 260 125
+num 14 100
+end
+id 1327
+max 3000
+size 470 125 260 125
+num 15 98
+end
+id 1328
+max 3000
+size 470 125 260 125
+num 16 96
+end
+id 1329
+max 3000
+size 470 125 260 125
+num 17 94
+end
+id 1330
+max 3000
+size 470 125 260 125
+num 18 92
+end
+id 1331
+max 3000
+size 470 125 260 125
+num 19 90
+end
+id 1332
+max 3000
+size 470 125 260 125
+num 20 88
+end
+id 1333
+max 3000
+size 470 125 260 125
+num 21 86
+end
+id 1334
+max 3000
+size 470 125 260 125
+num 22 84
+end
+id 1335
+max 3000
+size 470 125 260 125
+num 23 82
+end
+id 1336
+max 3000
+size 470 125 260 125
+num 24 80
+end
+id 1337
+max 3000
+size 470 125 260 125
+num 25 78
+end
+id 1338
+max 3000
+size 470 125 260 125
+num 26 76
+end
+id 1339
+max 3000
+size 470 125 260 125
+num 27 74
+end
+id 1340
+max 3000
+size 470 125 260 125
+num 28 72
+end
+id 1341
+max 3000
+size 470 125 260 125
+num 29 70
+end
+id 1342
+max 3000
+size 470 125 260 125
+num 30 68
+end
+id 1343
+max 3000
+size 470 125 260 125
+num 31 66
+end
+id 1344
+max 3000
+size 470 125 260 125
+num 32 64
+end
+id 1345
+max 3000
+size 470 125 260 125
+num 33 62
+end
+id 1346
+max 3000
+size 470 125 260 125
+num 34 60
+end
+id 1347
+max 3000
+size 470 125 260 125
+num 35 58
+end
+id 1348
+max 3000
+size 470 125 260 125
+num 36 56
+end
+id 1349
+max 3000
+size 470 125 260 125
+num 37 54
+end
+id 1350
+max 3000
+size 470 125 260 125
+num 38 52
+end
+id 1351
+max 3000
+size 470 125 260 125
+num 39 50
+end
+id 1352
+max 3000
+size 470 125 260 125
+num 40 48
+end
+id 1353
+max 3000
+size 470 125 260 125
+num 41 46
+end
+id 1354
+max 3000
+size 470 125 260 125
+num 42 44
+end
+id 1355
+max 3000
+size 470 125 260 125
+num 43 42
+end
+id 1356
+max 3000
+size 470 125 260 125
+num 44 40
+end
+id 1357
+max 3000
+size 470 125 260 125
+num 45 38
+end
+id 1358
+max 3000
+size 470 125 260 125
+num 46 36
+end
+id 1359
+max 3000
+size 470 125 260 125
+num 47 34
+end
+id 1360
+max 3000
+size 470 125 260 125
+num 48 32
+end
+id 1361
+max 3000
+size 470 125 260 125
+num 49 30
+end
+id 1362
+max 3000
+size 470 125 260 125
+num 50 28
+end
+id 1363
+max 3000
+size 470 125 260 125
+num 51 26
+end
+id 1364
+max 3000
+size 470 125 260 125
+num 52 24
+end
+id 1365
+max 3000
+size 470 125 260 125
+num 53 22
+end
+id 1366
+max 3000
+size 470 125 260 125
+num 54 20
+end
+id 1367
+max 3000
+size 470 125 260 125
+num 55 18
+end
+id 1368
+max 3000
+size 470 125 260 125
+num 56 16
+end
+id 1369
+max 3000
+size 470 125 260 125
+num 57 14
+end
+id 1370
+max 3000
+size 470 125 260 125
+num 58 12
+end
+id 1371
+max 3000
+size 470 125 260 125
+num 59 10
+end
+id 1372
+max 3000
+size 470 125 260 125
+num 60 8
+end
+id 1373
+max 3000
+size 470 125 260 125
+num 61 6
+end
+id 1374
+max 3000
+size 470 125 260 125
+num 62 4
+end
+id 1375
+max 3000
+size 470 125 260 125
+num 63 2
+end
+id 1376
+max 3000
+size 470 125 260 125
+num 64 0
+end
+id 1377
+max 3000
+size 470 125 260 125
+num 65 -2
+end
+id 1378
+max 3000
+size 470 125 260 125
+num 66 -4
+end
+id 1379
+max 3000
+size 470 125 260 125
+num 67 -6
+end
+id 1380
+max 3000
+size 470 125 260 125
+num 68 -8
+end
+id 1381
+max 3000
+size 470 125 260 125
+num 69 -10
+end
+id 1382
+max 3000
+size 470 125 260 125
+num 70 -12
+end
+id 1383
+max 3000
+size 470 125 260 125
+num 71 -14
+end
+id 1384
+max 3000
+size 470 125 260 125
+num 72 -16
+end
+id 1385
+max 3000
+size 470 125 260 125
+num 73 -18
+end
+id 1386
+max 3000
+size 470 125 260 125
+num 74 -20
+end
+id 1387
+max 3000
+size 470 125 260 125
+num 75 -22
+end
+id 1388
+max 3000
+size 470 125 260 125
+num 76 -24
+end
+id 1389
+max 3000
+size 470 125 260 125
+num 77 -26
+end
+id 1390
+max 3000
+size 470 125 260 125
+num 78 -28
+end
+id 1391
+max 3000
+size 470 125 260 125
+num 79 -30
+end
+id 1392
+max 3000
+size 470 125 260 125
+num 80 -32
+end
+id 1393
+max 3000
+size 470 125 260 125
+num 81 -34
+end
+id 1394
+max 3000
+size 470 125 260 125
+num 82 -36
+end
+id 1395
+max 3000
+size 470 125 260 125
+num 83 -38
+end
+id 1396
+max 3000
+size 470 125 260 125
+num 84 -40
+end
+id 1397
+max 3000
+size 470 125 260 125
+num 85 -42
+end
+id 1398
+max 3000
+size 470 125 260 125
+num 86 -44
+end
+id 1399
+max 3000
+size 470 125 260 125
+num 87 -46
+end
+id 1400
+max 3000
+size 470 125 260 125
+num 88 -48
+end
+id 1401
+max 3000
+size 470 125 260 125
+num 89 -50
+end
+id 1402
+max 3000
+size 470 125 260 125
+num 90 -52
+end
+id 1403
+max 3000
+size 470 125 260 125
+num 91 -54
+end
+id 1404
+max 3000
+size 470 125 260 125
+num 92 -56
+end
+id 1405
+max 3000
+size 470 125 260 125
+num 93 -58
+end
+id 1406
+max 3000
+size 470 125 260 125
+num 94 -60
+end
+id 1407
+max 3000
+size 470 125 260 125
+num 95 -62
+end
+id 1408
+max 3000
+size 470 125 260 125
+num 96 -64
+end
+id 1409
+max 3000
+size 470 125 260 125
+num 97 -66
+end
+id 1410
+max 3000
+size 470 125 260 125
+num 98 -68
+end
+id 1411
+max 3000
+size 470 125 260 125
+num 99 -70
+end
+id 1412
+max 3000
+size 470 125 260 125
+num 100 -72
+end
+id 1413
+max 3000
+size 470 125 260 125
+num 101 -74
+end
+id 1414
+max 3000
+size 470 125 260 125
+num 102 -76
+end
+id 1415
+max 3000
+size 470 125 260 125
+num 103 -78
+end
+id 1416
+max 3000
+size 470 125 260 125
+num 104 -80
+end
+id 1417
+max 3000
+size 470 125 260 125
+num 105 -82
+end
+id 1418
+max 3000
+size 470 125 260 125
+num 106 -84
+end
+id 1419
+max 3000
+size 470 125 260 125
+num 107 -86
+end
+id 1420
+max 3000
+size 470 125 260 125
+num 108 -88
+end
+id 1421
+max 3000
+size 470 125 260 125
+num 109 -90
+end
+id 1422
+max 3000
+size 470 125 260 125
+num 110 -92
+end
+id 1423
+max 3000
+size 470 125 260 125
+num 111 -94
+end
+id 1424
+max 3000
+size 470 125 260 125
+num 112 -96
+end
+id 1425
+max 3000
+size 470 125 260 125
+num 113 -98
+end
+id 1426
+max 3000
+size 470 125 260 125
+num 114 -100
+end
+id 1427
+max 3000
+size 470 125 260 125
+num 115 -102
+end
+id 1428
+max 3000
+size 470 125 260 125
+num 116 -104
+end
+id 1429
+max 3000
+size 470 125 260 125
+num 117 -106
+end
+id 1430
+max 3000
+size 470 125 260 125
+num 118 -108
+end
+id 1431
+max 3000
+size 470 125 260 125
+num 119 -110
+end
+id 1432
+max 3000
+size 470 125 260 125
+num 120 -112
+end
+id 1433
+max 3000
+size 470 125 260 125
+num 121 -114
+end
+id 1434
+max 3000
+size 470 125 260 125
+num 122 -116
+end
+id 1435
+max 3000
+size 470 125 260 125
+num 123 -118
+end
+id 1436
+max 3000
+size 470 125 260 125
+num 124 -120
+end
+id 1437
+max 3000
+size 470 125 260 125
+num 125 -122
+end
+id 1438
+max 3000
+size 470 125 260 125
+num 126 -124
+end
+id 1439
+max 3000
+size 470 125 260 125
+num 127 -126
+end
+id 1440
+max 3000
+size 470 125 260 125
+num 128 -128
+end
+id 1441
+max 3000
+size 470 125 260 125
+num 129 -130
+end
+id 1442
+max 3000
+size 470 125 260 125
+num 130 -132
+end
+id 1443
+max 3000
+size 470 125 260 125
+num 131 -134
+end
+id 1444
+max 3000
+size 470 125 260 125
+num 132 -136
+end
+id 1445
+max 3000
+size 470 125 260 125
+num 133 -138
+end
+id 1446
+max 3000
+size 470 125 260 125
+num 134 -140
+end
+id 1447
+max 3000
+size 470 125 260 125
+num 135 -142
+end
+id 1448
+max 3000
+size 470 125 260 125
+num 136 -144
+end
+id 1449
+max 3000
+size 470 125 260 125
+num 137 -146
+end
+id 1450
+max 3000
+size 470 125 260 125
+num 138 -148
+end
+id 1451
+max 3000
+size 470 125 260 125
+num 139 -150
+end
+id 1452
+max 3000
+size 470 125 260 125
+num 140 -152
+end
+id 1453
+max 3000
+size 470 125 260 125
+num 141 -154
+end
+id 1454
+max 3000
+size 470 125 260 125
+num 142 -156
+end
+id 1455
+max 3000
+size 470 125 260 125
+num 143 -158
+end
+id 1456
+max 3000
+size 470 125 260 125
+num 144 -160
+end
+id 1457
+max 3000
+size 470 125 260 125
+num 145 -162
+end
+id 1458
+max 3000
+size 470 125 260 125
+num 146 -164
+end
+id 1459
+max 3000
+size 470 125 260 125
+num 147 -166
+end
+id 1460
+max 3000
+size 470 125 260 125
+num 148 -168
+end
+id 1461
+max 3000
+size 470 125 260 125
+num 149 -170
+end
+id 1462
+max 3000
+size 470 125 260 125
+num 150 -172
+end
+id 1463
+max 3000
+size 470 125 260 125
+num 151 -174
+end
+id 1464
+max 3000
+size 470 125 260 125
+num 152 -176
+end
+id 1465
+max 3000
+size 470 125 260 125
+num 153 -178
+end
+id 1466
+max 2500
+size 470 125 260 125
+num 0 128
+end
+id 1467
+max 2500
+size 470 125 260 125
+num 1 126
+end
+id 1468
+max 2500
+size 470 125 260 125
+num 2 124
+end
+id 1469
+max 2500
+size 470 125 260 125
+num 3 122
+end
+id 1470
+max 2500
+size 470 125 260 125
+num 4 120
+end
+id 1471
+max 2500
+size 470 125 260 125
+num 5 118
+end
+id 1472
+max 2500
+size 470 125 260 125
+num 6 116
+end
+id 1473
+max 2500
+size 470 125 260 125
+num 7 114
+end
+id 1474
+max 2500
+size 470 125 260 125
+num 8 112
+end
+id 1475
+max 2500
+size 470 125 260 125
+num 9 110
+end
+id 1476
+max 2500
+size 470 125 260 125
+num 10 108
+end
+id 1477
+max 2500
+size 470 125 260 125
+num 11 106
+end
+id 1478
+max 2500
+size 470 125 260 125
+num 12 104
+end
+id 1479
+max 2500
+size 470 125 260 125
+num 13 102
+end
+id 1480
+max 2500
+size 470 125 260 125
+num 14 100
+end
+id 1481
+max 2500
+size 470 125 260 125
+num 15 98
+end
+id 1482
+max 2500
+size 470 125 260 125
+num 16 96
+end
+id 1483
+max 2500
+size 470 125 260 125
+num 17 94
+end
+id 1484
+max 2500
+size 470 125 260 125
+num 18 92
+end
+id 1485
+max 2500
+size 470 125 260 125
+num 19 90
+end
+id 1486
+max 2500
+size 470 125 260 125
+num 20 88
+end
+id 1487
+max 2500
+size 470 125 260 125
+num 21 86
+end
+id 1488
+max 2500
+size 470 125 260 125
+num 22 84
+end
+id 1489
+max 2500
+size 470 125 260 125
+num 23 82
+end
+id 1490
+max 2500
+size 470 125 260 125
+num 24 80
+end
+id 1491
+max 2500
+size 470 125 260 125
+num 25 78
+end
+id 1492
+max 2500
+size 470 125 260 125
+num 26 76
+end
+id 1493
+max 2500
+size 470 125 260 125
+num 27 74
+end
+id 1494
+max 2500
+size 470 125 260 125
+num 28 72
+end
+id 1495
+max 2500
+size 470 125 260 125
+num 29 70
+end
+id 1496
+max 2500
+size 470 125 260 125
+num 30 68
+end
+id 1497
+max 2500
+size 470 125 260 125
+num 31 66
+end
+id 1498
+max 2500
+size 470 125 260 125
+num 32 64
+end
+id 1499
+max 2500
+size 470 125 260 125
+num 33 62
+end
+id 1500
+max 2500
+size 470 125 260 125
+num 34 60
+end
+id 1501
+max 2500
+size 470 125 260 125
+num 35 58
+end
+id 1502
+max 2500
+size 470 125 260 125
+num 36 56
+end
+id 1503
+max 2500
+size 470 125 260 125
+num 37 54
+end
+id 1504
+max 2500
+size 470 125 260 125
+num 38 52
+end
+id 1505
+max 2500
+size 470 125 260 125
+num 39 50
+end
+id 1506
+max 2500
+size 470 125 260 125
+num 40 48
+end
+id 1507
+max 2500
+size 470 125 260 125
+num 41 46
+end
+id 1508
+max 2500
+size 470 125 260 125
+num 42 44
+end
+id 1509
+max 2500
+size 470 125 260 125
+num 43 42
+end
+id 1510
+max 2500
+size 470 125 260 125
+num 44 40
+end
+id 1511
+max 2500
+size 470 125 260 125
+num 45 38
+end
+id 1512
+max 2500
+size 470 125 260 125
+num 46 36
+end
+id 1513
+max 2500
+size 470 125 260 125
+num 47 34
+end
+id 1514
+max 2500
+size 470 125 260 125
+num 48 32
+end
+id 1515
+max 2500
+size 470 125 260 125
+num 49 30
+end
+id 1516
+max 2500
+size 470 125 260 125
+num 50 28
+end
+id 1517
+max 2500
+size 470 125 260 125
+num 51 26
+end
+id 1518
+max 2500
+size 470 125 260 125
+num 52 24
+end
+id 1519
+max 2500
+size 470 125 260 125
+num 53 22
+end
+id 1520
+max 2500
+size 470 125 260 125
+num 54 20
+end
+id 1521
+max 2500
+size 470 125 260 125
+num 55 18
+end
+id 1522
+max 2500
+size 470 125 260 125
+num 56 16
+end
+id 1523
+max 2500
+size 470 125 260 125
+num 57 14
+end
+id 1524
+max 2500
+size 470 125 260 125
+num 58 12
+end
+id 1525
+max 2500
+size 470 125 260 125
+num 59 10
+end
+id 1526
+max 2500
+size 470 125 260 125
+num 60 8
+end
+id 1527
+max 2500
+size 470 125 260 125
+num 61 6
+end
+id 1528
+max 2500
+size 470 125 260 125
+num 62 4
+end
+id 1529
+max 2500
+size 470 125 260 125
+num 63 2
+end
+id 1530
+max 2500
+size 470 125 260 125
+num 64 0
+end
+id 1531
+max 2500
+size 470 125 260 125
+num 65 -2
+end
+id 1532
+max 2500
+size 470 125 260 125
+num 66 -4
+end
+id 1533
+max 2500
+size 470 125 260 125
+num 67 -6
+end
+id 1534
+max 2500
+size 470 125 260 125
+num 68 -8
+end
+id 1535
+max 2500
+size 470 125 260 125
+num 69 -10
+end
+id 1536
+max 2500
+size 470 125 260 125
+num 70 -12
+end
+id 1537
+max 2500
+size 470 125 260 125
+num 71 -14
+end
+id 1538
+max 2500
+size 470 125 260 125
+num 72 -16
+end
+id 1539
+max 2500
+size 470 125 260 125
+num 73 -18
+end
+id 1540
+max 2500
+size 470 125 260 125
+num 74 -20
+end
+id 1541
+max 2500
+size 470 125 260 125
+num 75 -22
+end
+id 1542
+max 2500
+size 470 125 260 125
+num 76 -24
+end
+id 1543
+max 2500
+size 470 125 260 125
+num 77 -26
+end
+id 1544
+max 2500
+size 470 125 260 125
+num 78 -28
+end
+id 1545
+max 2500
+size 470 125 260 125
+num 79 -30
+end
+id 1546
+max 2500
+size 470 125 260 125
+num 80 -32
+end
+id 1547
+max 2500
+size 470 125 260 125
+num 81 -34
+end
+id 1548
+max 2500
+size 470 125 260 125
+num 82 -36
+end
+id 1549
+max 2500
+size 470 125 260 125
+num 83 -38
+end
+id 1550
+max 2500
+size 470 125 260 125
+num 84 -40
+end
+id 1551
+max 2500
+size 470 125 260 125
+num 85 -42
+end
+id 1552
+max 2500
+size 470 125 260 125
+num 86 -44
+end
+id 1553
+max 2500
+size 470 125 260 125
+num 87 -46
+end
+id 1554
+max 2500
+size 470 125 260 125
+num 88 -48
+end
+id 1555
+max 2500
+size 470 125 260 125
+num 89 -50
+end
+id 1556
+max 2500
+size 470 125 260 125
+num 90 -52
+end
+id 1557
+max 2500
+size 470 125 260 125
+num 91 -54
+end
+id 1558
+max 2500
+size 470 125 260 125
+num 92 -56
+end
+id 1559
+max 2500
+size 470 125 260 125
+num 93 -58
+end
+id 1560
+max 2500
+size 470 125 260 125
+num 94 -60
+end
+id 1561
+max 2500
+size 470 125 260 125
+num 95 -62
+end
+id 1562
+max 2500
+size 470 125 260 125
+num 96 -64
+end
+id 1563
+max 2500
+size 470 125 260 125
+num 97 -66
+end
+id 1564
+max 2500
+size 470 125 260 125
+num 98 -68
+end
+id 1565
+max 2500
+size 470 125 260 125
+num 99 -70
+end
+id 1566
+max 2500
+size 470 125 260 125
+num 100 -72
+end
+id 1567
+max 2500
+size 470 125 260 125
+num 101 -74
+end
+id 1568
+max 2500
+size 470 125 260 125
+num 102 -76
+end
+id 1569
+max 2500
+size 470 125 260 125
+num 103 -78
+end
+id 1570
+max 2500
+size 470 125 260 125
+num 104 -80
+end
+id 1571
+max 2500
+size 470 125 260 125
+num 105 -82
+end
+id 1572
+max 2500
+size 470 125 260 125
+num 106 -84
+end
+id 1573
+max 2000
+size 470 125 260 125
+num 0 123
+end
+id 1574
+max 2000
+size 470 125 260 125
+num 1 121
+end
+id 1575
+max 2000
+size 470 125 260 125
+num 2 119
+end
+id 1576
+max 2000
+size 470 125 260 125
+num 3 117
+end
+id 1577
+max 2000
+size 470 125 260 125
+num 4 115
+end
+id 1578
+max 2000
+size 470 125 260 125
+num 5 114
+end
+id 1579
+max 2000
+size 470 125 260 125
+num 6 112
+end
+id 1580
+max 2000
+size 470 125 260 125
+num 7 110
+end
+id 1581
+max 2000
+size 470 125 260 125
+num 8 108
+end
+id 1582
+max 2000
+size 470 125 260 125
+num 9 106
+end
+id 1583
+max 2000
+size 470 125 260 125
+num 10 105
+end
+id 1584
+max 2000
+size 470 125 260 125
+num 11 103
+end
+id 1585
+max 2000
+size 470 125 260 125
+num 12 101
+end
+id 1586
+max 2000
+size 470 125 260 125
+num 13 99
+end
+id 1587
+max 2000
+size 470 125 260 125
+num 14 97
+end
+id 1588
+max 2000
+size 470 125 260 125
+num 15 95
+end
+id 1589
+max 2000
+size 470 125 260 125
+num 16 94
+end
+id 1590
+max 2000
+size 470 125 260 125
+num 17 92
+end
+id 1591
+max 2000
+size 470 125 260 125
+num 18 90
+end
+id 1592
+max 2000
+size 470 125 260 125
+num 19 88
+end
+id 1593
+max 2000
+size 470 125 260 125
+num 20 86
+end
+id 1594
+max 2000
+size 470 125 260 125
+num 21 85
+end
+id 1595
+max 2000
+size 470 125 260 125
+num 22 83
+end
+id 1596
+max 2000
+size 470 125 260 125
+num 23 81
+end
+id 1597
+max 2000
+size 470 125 260 125
+num 24 79
+end
+id 1598
+max 2000
+size 470 125 260 125
+num 25 77
+end
+id 1599
+max 2000
+size 470 125 260 125
+num 26 76
+end
+id 1600
+max 2000
+size 470 125 260 125
+num 27 74
+end
+id 1601
+max 2000
+size 470 125 260 125
+num 28 72
+end
+id 1602
+max 2000
+size 470 125 260 125
+num 29 70
+end
+id 1603
+max 2000
+size 470 125 260 125
+num 30 68
+end
+id 1604
+max 2000
+size 470 125 260 125
+num 31 66
+end
+id 1605
+max 2000
+size 470 125 260 125
+num 32 64
+end
+id 1606
+max 2000
+size 470 125 260 125
+num 33 62
+end
+id 1607
+max 2000
+size 470 125 260 125
+num 34 60
+end
+id 1608
+max 2000
+size 470 125 260 125
+num 35 58
+end
+id 1609
+max 2000
+size 470 125 260 125
+num 36 56
+end
+id 1610
+max 2000
+size 470 125 260 125
+num 37 54
+end
+id 1611
+max 2000
+size 470 125 260 125
+num 38 52
+end
+id 1612
+max 2000
+size 470 125 260 125
+num 39 50
+end
+id 1613
+max 2000
+size 470 125 260 125
+num 40 48
+end
+id 1614
+max 2000
+size 470 125 260 125
+num 41 46
+end
+id 1615
+max 2000
+size 470 125 260 125
+num 42 44
+end
+id 1616
+max 2000
+size 470 125 260 125
+num 43 42
+end
+id 1617
+max 2000
+size 470 125 260 125
+num 44 40
+end
+id 1618
+max 2000
+size 470 125 260 125
+num 45 38
+end
+id 1619
+max 2000
+size 470 125 260 125
+num 46 36
+end
+id 1620
+max 2000
+size 470 125 260 125
+num 47 34
+end
+id 1621
+max 2000
+size 470 125 260 125
+num 48 32
+end
+id 1622
+max 2000
+size 470 125 260 125
+num 49 30
+end
+id 1623
+max 2000
+size 470 125 260 125
+num 50 28
+end
+id 1624
+max 2000
+size 470 125 260 125
+num 51 26
+end
+id 1625
+max 2000
+size 470 125 260 125
+num 52 24
+end
+id 1626
+max 2000
+size 470 125 260 125
+num 53 22
+end
+id 1627
+max 2000
+size 470 125 260 125
+num 54 20
+end
+id 1628
+max 2000
+size 470 125 260 125
+num 55 18
+end
+id 1629
+max 2000
+size 470 125 260 125
+num 56 16
+end
+id 1630
+max 2000
+size 470 125 260 125
+num 57 14
+end
+id 1631
+max 2000
+size 470 125 260 125
+num 58 12
+end
+id 1632
+max 2000
+size 470 125 260 125
+num 59 10
+end
+id 1633
+max 2000
+size 470 125 260 125
+num 60 8
+end
+id 1634
+max 2000
+size 470 125 260 125
+num 61 6
+end
+id 1635
+max 2000
+size 470 125 260 125
+num 62 4
+end
+id 1636
+max 2000
+size 470 125 260 125
+num 63 2
+end
+id 1637
+max 2000
+size 470 125 260 125
+num 64 0
+end
+id 1638
+max 2000
+size 470 125 260 125
+num 65 -2
+end
+id 1639
+max 2000
+size 470 125 260 125
+num 66 -4
+end
+id 1640
+max 2000
+size 470 125 260 125
+num 67 -6
+end
+id 1641
+max 2000
+size 470 125 260 125
+num 68 -8
+end
+id 1642
+max 1500
+size 470 125 260 125
+num 0 69
+end
+id 1643
+max 1500
+size 470 125 260 125
+num 1 67
+end
+id 1644
+max 1500
+size 470 125 260 125
+num 2 65
+end
+id 1645
+max 1500
+size 470 125 260 125
+num 3 63
+end
+id 1646
+max 1500
+size 470 125 260 125
+num 4 62
+end
+id 1647
+max 1500
+size 470 125 260 125
+num 5 60
+end
+id 1648
+max 1500
+size 470 125 260 125
+num 6 58
+end
+id 1649
+max 1500
+size 470 125 260 125
+num 7 56
+end
+id 1650
+max 1500
+size 470 125 260 125
+num 8 54
+end
+id 1651
+max 1500
+size 470 125 260 125
+num 9 52
+end
+id 1652
+max 1500
+size 470 125 260 125
+num 10 51
+end
+id 1653
+max 1500
+size 470 125 260 125
+num 11 49
+end
+id 1654
+max 1500
+size 470 125 260 125
+num 12 47
+end
+id 1655
+max 1500
+size 470 125 260 125
+num 13 45
+end
+id 1656
+max 1500
+size 470 125 260 125
+num 14 43
+end
+id 1657
+max 1500
+size 470 125 260 125
+num 15 42
+end
+id 1658
+max 1500
+size 470 125 260 125
+num 16 40
+end
+id 1659
+max 1500
+size 470 125 260 125
+num 17 38
+end
+id 1660
+max 1500
+size 470 125 260 125
+num 18 36
+end
+id 1661
+max 1500
+size 470 125 260 125
+num 19 34
+end
+id 1662
+max 1500
+size 470 125 260 125
+num 20 33
+end
+id 1663
+max 1500
+size 470 125 260 125
+num 21 31
+end
+id 1664
+max 1500
+size 470 125 260 125
+num 22 29
+end
+id 1665
+max 1500
+size 470 125 260 125
+num 23 27
+end
+id 1666
+max 1500
+size 470 125 260 125
+num 24 25
+end
+id 1667
+max 1500
+size 470 125 260 125
+num 25 24
+end
+id 1668
+max 1500
+size 470 125 260 125
+num 26 22
+end
+id 1669
+max 1500
+size 470 125 260 125
+num 27 20
+end
+id 1670
+max 1500
+size 470 125 260 125
+num 28 18
+end
+id 1671
+max 1500
+size 470 125 260 125
+num 29 16
+end
+id 1672
+max 1500
+size 470 125 260 125
+num 30 15
+end
+id 1673
+max 1500
+size 470 125 260 125
+num 31 13
+end
+id 1674
+max 1500
+size 470 125 260 125
+num 32 11
+end
+id 1675
+max 1500
+size 470 125 260 125
+num 33 9
+end
+id 1676
+max 1500
+size 470 125 260 125
+num 34 7
+end
+id 1677
+max 1500
+size 470 125 260 125
+num 35 5
+end
+id 1678
+max 1500
+size 470 125 260 125
+num 36 4
+end
+id 1679
+max 1500
+size 470 125 260 125
+num 37 2
+end
+id 1680
+max 1500
+size 470 125 260 125
+num 38 0
+end
