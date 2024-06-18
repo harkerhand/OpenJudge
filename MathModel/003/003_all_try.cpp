@@ -141,27 +141,53 @@ int main()
     S_cost[2] = make_tuple(4000000, 8.4);
     S_cost[3] = make_tuple(2250000, 4.5);
 
-    for (auto &i : S_cost)
+    double min_Money = 99999999999;
+    int bestNumber = 0;
+    array<int, 13> bestArray;
+
+    ifstream input("output.txt");
+    for (int number = 0; number < 560; number++)
     {
+        array<int, 13> chose_which_plate = {1, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3};
+
+        for (auto &i : chose_which_plate)
+        {
+            input >> i;
+        }
+
+        int index = -1;
         string ans = "";
         abcd_need = backup;
-        int num = 0;
+        long sum_S = 0;
+        double sum_Money = 0;
         while (1)
         {
             int count = 0;
-            for (auto &j : abcd_need)
+            for (int i = 0; i < 13; i++)
             {
+                auto j = abcd_need[i];
                 if (get<2>(j) == 0)
                 {
                     count++;
                 }
+
                 ans += to_string(get<2>(j)) + " ";
+            }
+            for (int i = 0; i < 13; i++)
+            {
+                auto j = abcd_need[i];
+                if (get<2>(j) != 0)
+                {
+                    index = i;
+                    break;
+                }
             }
             ans += '\n';
             if (count == 13)
                 break;
-            num++;
-            put_in(sqrt(get<0>(i)), sqrt(get<0>(i)));
+            put_in(sqrt(get<0>(S_cost[chose_which_plate[index]])), sqrt(get<0>(S_cost[chose_which_plate[index]])));
+            sum_S += get<0>(S_cost[chose_which_plate[index]]);
+            sum_Money += get<1>(S_cost[chose_which_plate[index]]);
         }
 
         stringstream ss(ans);
@@ -171,24 +197,44 @@ int main()
             ss >> last[i];
         }
         int count = 0;
-        while (count != 13)
+        if (number == 544)
         {
-            count = 0;
-            array<int, 13> now;
-            for (int i = 0; i < 13; i++)
+            while (count != 13)
             {
-                ss >> now[i];
-                output << last[i] - now[i] << " ";
-                last[i] = now[i];
-                if (now[i] == 0)
+                count = 0;
+                array<int, 13> now;
+                for (int i = 0; i < 13; i++)
                 {
-                    count++;
+                    ss >> now[i];
+                    output << last[i] - now[i] << " ";
+                    last[i] = now[i];
+                    if (now[i] == 0)
+                    {
+                        count++;
+                    }
                 }
+                output << endl;
             }
-            output << endl;
         }
 
-        cout << num << " " << num * get<1>(i) << " " << num * get<1>(i) - (get<0>(i) * num - sum_box_S) * 0.0000006 << endl;
-        output << num << " " << num * get<1>(i) << " " << num * get<1>(i) - (get<0>(i) * num - sum_box_S) * 0.0000006 << endl;
+        cout << sum_Money << " " << sum_Money - (sum_S - sum_box_S) * 0.0000006 << endl;
+        if (number == 544)
+        {
+            output << sum_Money << " " << sum_Money - (sum_S - sum_box_S) * 0.0000006 << endl;
+        }
+        min_Money = min(min_Money, sum_Money - (sum_S - sum_box_S) * 0.0000006);
+        if (min_Money >= sum_Money - (sum_S - sum_box_S) * 0.0000006)
+        {
+            bestNumber = number;
+            bestArray = chose_which_plate;
+        }
     }
+    input.close();
+    cout << min_Money << " " << bestNumber << endl;
+    for (auto &i : bestArray)
+    {
+        cout << i << " ";
+    }
+    cout << endl;
+    return 0;
 }

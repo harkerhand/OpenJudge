@@ -31,7 +31,7 @@ ________________________a_____________________________b________
 |                  n * width                  |               |
 |_____________________________________________|_______________|
 
-
+与第二问不同的是，现在切出来的三个块无法进行组合，必须单独计算。
  */
 void put_in(int length, int width)
 {
@@ -78,18 +78,10 @@ void put_in(int length, int width)
             int b = width - a;
             int c = length - d;
 
-            if (a * c > b * d)
-            {
-                put_in(max(c, a + b), min(c, a + b));
-                put_in(max(d, b), min(d, b));
-                return;
-            }
-            else
-            {
-                put_in(max(d + c, b), min(d + c, b));
-                put_in(max(a, c), min(a, c));
-                return;
-            }
+            put_in(max(c, a), min(c, a));
+            put_in(max(d, b), min(d, b));
+            put_in(max(c, b), min(c, b));
+            return;
         }
     }
     return;
@@ -97,35 +89,35 @@ void put_in(int length, int width)
 
 int main()
 {
-    ofstream output("big_to_little.txt");
+    ofstream output("big_to_little52.txt");
 
     // abcd_need[0] = make_tuple(1710, 670, 40);
     // abcd_need[1] = make_tuple(1590, 530, 67);
-    abcd_need[2] = make_tuple(1330, 480, 86);
-    abcd_need[3] = make_tuple(1130, 420, 89);
-    abcd_need[4] = make_tuple(970, 360, 108);
-    abcd_need[5] = make_tuple(850, 330, 111);
-    abcd_need[6] = make_tuple(770, 290, 123);
-    abcd_need[7] = make_tuple(690, 250, 129);
-    abcd_need[8] = make_tuple(650, 240, 140);
-    abcd_need[9] = make_tuple(590, 210, 110);
-    abcd_need[10] = make_tuple(510, 190, 96);
-    abcd_need[11] = make_tuple(470, 170, 84);
-    abcd_need[12] = make_tuple(470, 125, 64);
+    // abcd_need[2] = make_tuple(1330, 480, 86);
+    // abcd_need[3] = make_tuple(1130, 420, 89);
+    // abcd_need[4] = make_tuple(970, 360, 108);
+    // abcd_need[5] = make_tuple(850, 330, 111);
+    // abcd_need[6] = make_tuple(770, 290, 123);
+    // abcd_need[7] = make_tuple(690, 250, 129);
+    // abcd_need[8] = make_tuple(650, 240, 140);
+    // abcd_need[9] = make_tuple(590, 210, 110);
+    // abcd_need[10] = make_tuple(510, 190, 96);
+    // abcd_need[11] = make_tuple(470, 170, 84);
+    // abcd_need[12] = make_tuple(470, 125, 64);
 
     abcd_need[0] = make_tuple(880, 670, 80);
     abcd_need[1] = make_tuple(820, 530, 134);
-    // abcd_need[2] = make_tuple(690, 480, 172);
-    // abcd_need[3] = make_tuple(590, 420, 178);
-    // abcd_need[4] = make_tuple(510, 360, 216);
-    // abcd_need[5] = make_tuple(450, 330, 222);
-    // abcd_need[6] = make_tuple(410, 290, 246);
-    // abcd_need[7] = make_tuple(370, 250, 258);
-    // abcd_need[8] = make_tuple(350, 240, 280);
-    // abcd_need[9] = make_tuple(320, 210, 220);
-    // abcd_need[10] = make_tuple(280, 190, 192);
-    // abcd_need[11] = make_tuple(260, 170, 168);
-    // abcd_need[12] = make_tuple(260, 125, 128);
+    abcd_need[2] = make_tuple(690, 480, 172);
+    abcd_need[3] = make_tuple(590, 420, 178);
+    abcd_need[4] = make_tuple(510, 360, 216);
+    abcd_need[5] = make_tuple(450, 330, 222);
+    abcd_need[6] = make_tuple(410, 290, 246);
+    abcd_need[7] = make_tuple(370, 250, 258);
+    abcd_need[8] = make_tuple(350, 240, 280);
+    abcd_need[9] = make_tuple(320, 210, 220);
+    abcd_need[10] = make_tuple(280, 190, 192);
+    abcd_need[11] = make_tuple(260, 170, 168);
+    abcd_need[12] = make_tuple(260, 125, 128);
 
     long sum_box_S = 0;
     for (auto &i : abcd_need)
