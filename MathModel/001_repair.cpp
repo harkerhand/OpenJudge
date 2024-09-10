@@ -9,6 +9,8 @@ using namespace std;
 
 long id = 0;
 long worse = 0;
+int plate_id = 0;
+int box_id = 0;
 
 long double money(long x, long y, long S, long S_A, long S_B, long need, long double cost)
 {
@@ -22,19 +24,20 @@ long double money(long x, long y, long S, long S_A, long S_B, long need, long do
         whole = need / A;
         result += whole * (cost - 0.0000006 * (S - S_A * x - S_B * y));
         last = need - whole * (x + y / 2);
-        result += cost;
-        long lastS = 0;
+        if (last != 0)
+            result += cost;
+        long lastS = S;
         while (last > 0)
         {
             if (x > 0)
             {
-                lastS += S_A;
+                lastS -= S_A;
                 x--;
                 last--;
             }
             else if (y >= 2)
             {
-                lastS += S_B * 2;
+                lastS -= S_B * 2;
                 y -= 2;
                 last--;
             }
@@ -48,19 +51,20 @@ long double money(long x, long y, long S, long S_A, long S_B, long need, long do
         last = need - whole / 2 * (x + x + y);
         if (last <= x + y / 2)
         {
-            result += cost;
-            long lastS = 0;
+            if (last != 0)
+                result += cost;
+            long lastS = S;
             while (last > 0)
             {
                 if (x > 0)
                 {
-                    lastS += S_A;
+                    lastS -= S_A;
                     x--;
                     last--;
                 }
                 else if (y >= 2)
                 {
-                    lastS += S_B * 2;
+                    lastS -= S_B * 2;
                     y -= 2;
                     last--;
                 }
@@ -69,23 +73,23 @@ long double money(long x, long y, long S, long S_A, long S_B, long need, long do
         }
         else
         {
-            long lastS = 0;
+            long lastS = S;
             result += cost + cost - 0.0000006 * (S - S_A * x - S_B * y); // 两块板子 第一块全切
             last -= x + y / 2 + 1;
             y--;
-            lastS += S_B;
+            lastS -= S_B;
             // 现在又变成偶数个小
             while (last > 0)
             {
                 if (x > 0)
                 {
-                    lastS += S_A;
+                    lastS -= S_A;
                     x--;
                     last--;
                 }
                 else if (y >= 2)
                 {
-                    lastS += S_B * 2;
+                    lastS -= S_B * 2;
                     y -= 2;
                     last--;
                 }
@@ -106,6 +110,8 @@ void findMaxXY(long a, long b, long c, long d, long S, long need, long double co
 
     for (long x = 0; x <= S / S_A; x++)
     {
+        if (x > need)
+            break;
         long y = (S - S_A * x) / S_B;
         if (S_A * x + S_B * y <= S)
         {
@@ -118,7 +124,7 @@ void findMaxXY(long a, long b, long c, long d, long S, long need, long double co
     for (const auto &pair : maxValues)
     {
         // cout << "(" << pair.first << ", " << pair.second << ")" << money(pair.first, pair.second, S, S_A, S_B, need, cost) << endl;
-        output1 << "(" << pair.first << ", " << pair.second << ")" << money(pair.first, pair.second, S, S_A, S_B, need, cost) << endl;
+        output1 << id + 1 << "(" << pair.first << ", " << pair.second << ")" << money(pair.first, pair.second, S, S_A, S_B, need, cost) << endl;
         output << "id " << ++id << endl;
         output << "max " << sqrt(S) << endl;
         output << "size " << a << " " << b << " " << c << " " << d << endl;
@@ -128,6 +134,9 @@ void findMaxXY(long a, long b, long c, long d, long S, long need, long double co
         {
             worse++;
         }
+        ofstream output2("output2.txt", ios::app);
+        output2 << id << " " << box_id << " " << plate_id << endl;
+        output2.close();
     }
     output.close();
     output1.close();
@@ -168,8 +177,12 @@ int main()
 
     for (auto &i : abcd_need)
     {
+
+        box_id++;
+        plate_id = 0;
         for (auto &j : S_cost)
         {
+            plate_id++;
             long a, b, c, d, S, need;
             long double cost;
             a = get<0>(i);
