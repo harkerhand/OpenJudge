@@ -43,12 +43,21 @@ jobs:
     - name: Create zip archive
       run: Compress-Archive -Path release\* -DestinationPath release.zip
 
-    # 7. 创建 GitHub Release
+    # 7. 获取 tag message
+    - name: Get tag message
+      id: tag_message
+      run: |
+        TAG_NAME=${GITHUB_REF#refs/tags/}
+        TAG_MESSAGE=$(git tag -l "${TAG_NAME}" -n99)
+        echo "::set-output name=tag_message::$TAG_MESSAGE"
+
+    # 8. 创建 GitHub Release
     - name: Create Release and Upload Release Asset
       uses: softprops/action-gh-release@v2
       with:
-        tag_name: ${{ github.ref }}
-        name: Release ${{ github.ref }}
+        tag_name: ${{ github.ref_name }}
+        name: Release ${{ github.ref_name }}
+        body: ${{ steps.tag_message.outputs.tag_message }} # 使用 tag message 作为 release body
         files: release.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
