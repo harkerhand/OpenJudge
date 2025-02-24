@@ -45,7 +45,7 @@ jobs:
 
     # 7. 创建 GitHub Release
     - name: Create Release and Upload Release Asset
-      uses: softprops/action-gh-release@latest
+      uses: softprops/action-gh-release@v2
       with:
         tag_name: ${{ github.ref }}
         name: Release ${{ github.ref }}
