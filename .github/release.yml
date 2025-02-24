@@ -1,0 +1,68 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - 'v*'  # 只在 tag 以 'v' 开头时触发，如 v1.0.0
+
+jobs:
+  build:
+    runs-on: windows-latest  # 运行环境改为 Windows
+
+    steps:
+    # 1. 检出代码
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # 2. 设置 Rust 环境
+    - name: Set up Rust
+      uses: dtolnay/rust-toolchain@stable
+      with:
+        components: clippy, rustfmt  # 需要的话可以添加
+
+    # 3. 编译项目 (Windows 平台)
+    - name: Build project
+      run: cargo --version  # 生成 Windows EXE 文件
+
+    # 4. 生成空的 JSON 文件
+    - name: Create empty JSON files
+      run: |
+        echo {} > file1.json
+        echo {} > file2.json
+        echo {} > file3.json
+
+    # 5. 创建 release 目录并移动构建产物
+    - name: Package the build
+      run: |
+        mkdir release
+        copy file1.json release\
+        copy file2.json release\
+        copy file3.json release\
+
+    # 6. 打包 release 目录
+    - name: Create zip archive
+      run: Compress-Archive -Path release\* -DestinationPath release.zip
+
+    # 7. 创建 GitHub Release
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ github.ref_name }}  # GitHub 变量，获取 tag 名称
+        release_name: Release ${{ github.ref_name }}
+        body: 'Release notes for ${{ github.ref_name }}'
+        draft: false
+        prerelease: false
+
+    # 8. 上传构建产物到 GitHub Releases
+    - name: Upload release assets
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./release.zip
+        asset_name: release.zip
+        asset_content_type: application/zip
