@@ -46,7 +46,7 @@ jobs:
     # 7. 创建 GitHub Release
     - name: Create Release
       id: create_release
-      uses: actions/create-release@v1
+      uses: actions/create-release@latest
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
@@ -58,7 +58,7 @@ jobs:
 
     # 8. 上传构建产物到 GitHub Releases
     - name: Upload release assets
-      uses: actions/upload-release-asset@v1
+      uses: actions/upload-release-asset@latest
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
