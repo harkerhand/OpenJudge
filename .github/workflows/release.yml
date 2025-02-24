@@ -44,25 +44,11 @@ jobs:
       run: Compress-Archive -Path release\* -DestinationPath release.zip
 
     # 7. 创建 GitHub Release
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@latest
+    - name: Create Release and Upload Release Asset
+      uses: softprops/action-gh-release@latest
+      with:
+        tag_name: ${{ github.ref }}
+        name: Release ${{ github.ref }}
+        files: release.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: ${{ github.ref_name }}  # GitHub 变量，获取 tag 名称
-        release_name: Release ${{ github.ref_name }}
-        body: 'Release notes for ${{ github.ref_name }}'
-        draft: false
-        prerelease: false
-
-    # 8. 上传构建产物到 GitHub Releases
-    - name: Upload release assets
-      uses: actions/upload-release-asset@latest
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./release.zip
-        asset_name: release.zip
-        asset_content_type: application/zip
